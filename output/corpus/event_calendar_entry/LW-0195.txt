@@ -1,0 +1,33 @@
+---
+id: "LW-0195"
+category: "event_calendar_entry"
+timestamp: "2023-03-27T00:40:28Z"
+author: "Mark Korir"
+target_audience: "all church members"
+location_tag: "Chepseon"
+language_mix: "English with occasional Swahili"
+document_style: "event_notice"
+keywords: ["all", "new", "registration", "venue", "event"]
+---
+
+📅 EVENT: New Year Cross-Night Service
+
+Details:
+  Date: 2025-12-15
+  Time: 08:00 — 14:00
+  Venue: Main Sanctuary
+  Target audience: all church members
+  Expected attendance: ~180
+  Coordinator: Mark Korir
+  Registration deadline: 2024-11-17
+
+Description:
+This event is organised by Londiani Worshippers and is open to the all church members. 
+
+Registration:
+Contact Mark Korir at 07XX-XXX-XXX or register at the information desk after service.
+Early bird registration available — sign up before the deadline!
+
+Volunteer needs: Ushers (14), hospitality team (5), media/technical (5).
+
+Karibu! All are welcome.

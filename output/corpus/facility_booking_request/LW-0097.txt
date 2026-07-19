@@ -1,0 +1,49 @@
+---
+id: "LW-0097"
+category: "facility_booking_request"
+timestamp: "2026-08-15T08:55:54Z"
+author: "Elijah Muthoni"
+target_audience: "church administration"
+location_tag: "Kipkelion West"
+language_mix: "primarily English"
+document_style: "administrative_request"
+keywords: ["event", "facility", "venue", "booking", "leadership"]
+---
+
+FACILITY BOOKING REQUEST
+==================================================
+
+Request ID: FBR-874
+Date Submitted: 2026-08-15
+
+EVENT DETAILS:
+  Event: Leadership Training
+  Description: Church Leadership Workshop
+  Requested Venue: Fellowship Hall
+  Event Date: 2024-09-27
+  Setup Time: 8:00 AM
+  Event Start: 10:00 AM
+  Expected End: 4:00 PM
+  Expected Attendance: ~157
+
+REQUESTER INFORMATION:
+  Name: Elijah Muthoni
+  Role: Event Coordinator
+  Phone: 07XX-XXX-XXX
+
+SPECIAL REQUIREMENTS:
+  [X] Sound system
+  [X] Projector and screen
+  [X] Additional chairs
+  [ ] Decoration permission
+  [X] Kitchen access for meal preparation
+  [ ] Overnight accommodation
+
+BUDGET ESTIMATE: Ksh 7,726
+
+APPROVAL STATUS: ☐ Pending
+
+Comments:
+Please confirm availability of Fellowship Hall by end of this week. We may need the outdoor area as well if attendance exceeds our expectation.
+
+— Elijah Muthoni

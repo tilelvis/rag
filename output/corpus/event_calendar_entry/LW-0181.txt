@@ -1,0 +1,33 @@
+---
+id: "LW-0181"
+category: "event_calendar_entry"
+timestamp: "2023-12-15T20:59:24Z"
+author: "Sapphira Wanjiku"
+target_audience: "youth aged 14-30"
+location_tag: "Chepseon"
+language_mix: "English with occasional Swahili"
+document_style: "event_notice"
+keywords: ["chepseon", "youth", "calendar", "event", "registration", "venue", "youth"]
+---
+
+📅 EVENT: Youth Alive Conference 2023
+
+Details:
+  Date: 2024-10-12
+  Time: 18:00 — 14:00
+  Venue: Youth Centre, Londiani
+  Target audience: youth aged 14-30
+  Expected attendance: ~150
+  Coordinator: Sapphira Wanjiku
+  Registration deadline: 2026-08-09
+
+Description:
+This event is organised by Londiani Worshippers and is open to the youth aged 14-30. It will feature guest speakers, worship, and practical workshops.
+
+Registration:
+Contact Sapphira Wanjiku at 07XX-XXX-XXX or register at the information desk after service.
+Early bird registration available — sign up before the deadline!
+
+Volunteer needs: Ushers (7), hospitality team (8), media/technical (2).
+
+Karibu! All are welcome.

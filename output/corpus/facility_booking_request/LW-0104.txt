@@ -1,0 +1,37 @@
+---
+id: "LW-0104"
+category: "facility_booking_request"
+timestamp: "2024-05-01T08:22:19Z"
+author: "Isaac Mwangi"
+target_audience: "church administration"
+location_tag: "Tulwet"
+language_mix: "primarily English"
+document_style: "administrative_request"
+keywords: ["request", "scheduling", "facility", "booking", "event"]
+---
+
+Booking Request Form
+Londiani Worshippers Church
+
+I am writing to request the use of the Pastor's Office for the following event:
+
+Event Name: Community Health Camp
+Organised by: Isaac Mwangi
+Date: 2022-11-12
+Time: 11:00 — 09:00
+Expected attendees: 101
+Target audience: community members
+
+Equipment needed:
+  1. Microphones (2 handheld, 1 lapel)
+  2. PA system
+  3. Projector
+
+Catering: Light refreshments only
+Cleaning: We will arrange cleaning after the event.
+
+I understand and agree to abide by the church facility use policy.
+Please contact me at 07XX-XXX-XXX to confirm.
+
+Thank you and God bless.
+— Isaac Mwangi

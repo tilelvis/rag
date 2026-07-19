@@ -1,0 +1,36 @@
+---
+id: "LW-0202"
+category: "volunteer_roster_notice"
+timestamp: "2026-02-04T03:04:45Z"
+author: "Thomas Cheboi"
+target_audience: "prayer team volunteers"
+location_tag: "Chepseon"
+language_mix: "primarily English"
+document_style: "roster_notice"
+keywords: ["prayer", "roster", "assignment", "volunteer", "service duty", "schedule"]
+---
+
+📢 PRAYER TEAM — SERVICE ROSTER
+
+Hello team! Here is your schedule:
+
+DATE: 5th Sunday
+TEAM LEAD: Thomas Cheboi
+
+ASSIGNMENTS:
+  1. Grace Kipkemoi — Chepseon
+  2. Eunice Cheboi — Side entrance
+  3. Bett Koskei — Sound booth
+  4. John Kiprop — Altar area
+
+CHECKLIST:
+  □ Report by 7:10 AM (first service) or 9:40 AM (second service)
+  □ Coordinate with other teams at the 7:00 AM huddle
+  □ Ensure all equipment/supplies are in place before service
+  □ Debrief briefly after service
+
+Need to swap? Contact Thomas Cheboi directly. Please do not just skip — every role matters for a smooth service.
+
+Asante sana for your commitment! If anyone wants to join the prayer team, speak to Thomas Cheboi after service.
+
+Tuko pamoja! 💪

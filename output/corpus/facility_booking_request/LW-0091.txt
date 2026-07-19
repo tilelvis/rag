@@ -1,0 +1,49 @@
+---
+id: "LW-0091"
+category: "facility_booking_request"
+timestamp: "2025-05-14T00:45:37Z"
+author: "Miriam Sang"
+target_audience: "church administration"
+location_tag: "Londiani Catholic Parish"
+language_mix: "primarily English"
+document_style: "administrative_request"
+keywords: ["booking", "request", "facility", "event", "venue"]
+---
+
+FACILITY BOOKING REQUEST
+==================================================
+
+Request ID: FBR-302
+Date Submitted: 2025-05-14
+
+EVENT DETAILS:
+  Event: Wedding Ceremony
+  Description: Kiprono-Koech Wedding
+  Requested Venue: Outdoor Pergola
+  Event Date: 2022-12-20
+  Setup Time: 8:00 AM
+  Event Start: 10:00 AM
+  Expected End: 4:00 PM
+  Expected Attendance: ~241
+
+REQUESTER INFORMATION:
+  Name: Miriam Sang
+  Role: Event Coordinator
+  Phone: 07XX-XXX-XXX
+
+SPECIAL REQUIREMENTS:
+  [X] Sound system
+  [X] Projector and screen
+  [X] Additional chairs
+  [X] Decoration permission
+  [X] Kitchen access for meal preparation
+  [ ] Overnight accommodation
+
+BUDGET ESTIMATE: Ksh 34,463
+
+APPROVAL STATUS: ☐ Pending
+
+Comments:
+Please confirm availability of Outdoor Pergola by end of this week. We may need the outdoor area as well if attendance exceeds our expectation.
+
+— Miriam Sang

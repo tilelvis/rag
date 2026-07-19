@@ -1,0 +1,38 @@
+---
+id: "LW-0120"
+category: "counseling_intake_summary"
+timestamp: "2026-09-15T09:29:00Z"
+author: "Pastoral Care Coordinator"
+target_audience: "counselling team (confidential)"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "clinical_summary"
+keywords: ["counselling", "chronic", "intake", "assessment", "faith"]
+---
+
+Intake Form — Counselling Ministry, Londiani Worshippers
+CONFIDENTIAL — DO NOT DISTRIBUTE
+
+Ref #: CND-992
+Counsellor assigned: Pastoral Care Coordinator
+Presenting issue: chronic illness and faith
+
+CLIENT NARRATIVE:
+Client was recently diagnosed with a chronic condition. Struggling to understand how God allows suffering. Questions about healing and the purpose of prayer in illness.
+
+OBSERVATIONS:
+  Affect: flat
+  Engagement level: moderate — willing but hesitant
+  Risk assessment: no immediate risk
+
+AGREED FOCUS AREAS:
+  → Understanding the situation through a biblical lens
+  → Developing practical steps forward
+  → Building a support network within the church community
+
+SESSION COUNT: 5 to date
+NEXT APPOINTMENT: To be scheduled
+
+Every person is created in the image of God and deserves dignity, compassion, and confidentiality.
+
+— Pastoral Care Coordinator

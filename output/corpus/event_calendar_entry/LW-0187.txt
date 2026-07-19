@@ -1,0 +1,33 @@
+---
+id: "LW-0187"
+category: "event_calendar_entry"
+timestamp: "2022-08-25T05:07:11Z"
+author: "Kipng'etich Korir"
+target_audience: "married and engaged couples"
+location_tag: "Nakuru County"
+language_mix: "English with occasional Swahili"
+document_style: "event_notice"
+keywords: ["registration", "couples'", "married", "calendar", "venue"]
+---
+
+📅 EVENT: Couples' Enrichment Weekend
+
+Details:
+  Date: 2024-04-10
+  Time: 08:00 — 14:00
+  Venue: Conference Centre, Nakuru County
+  Target audience: married and engaged couples
+  Expected attendance: ~30
+  Coordinator: Kipng'etich Korir
+  Registration deadline: 2026-09-01
+
+Description:
+This event is organised by Londiani Worshippers and is open to the married and engaged couples. 
+
+Registration:
+Contact Kipng'etich Korir at 07XX-XXX-XXX or register at the information desk after service.
+
+
+Volunteer needs: Ushers (15), hospitality team (8), media/technical (4).
+
+Karibu! All are welcome.

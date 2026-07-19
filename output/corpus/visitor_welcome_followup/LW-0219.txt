@@ -1,0 +1,15 @@
+---
+id: "LW-0219"
+category: "visitor_welcome_followup"
+timestamp: "2022-03-17T04:59:31Z"
+author: "Silas Kiprop"
+target_audience: "new visitors"
+location_tag: "Londiani Market"
+language_mix: "English with Swahili phrases"
+document_style: "welcome_letter"
+keywords: ["follow-up", "welcome", "newcomer", "welcome letter", "connection"]
+---
+
+[SMS to K.L.]
+
+Hi from Londiani Worshippers! Great having u with us. This Friday we have a special worship night 7pm-9pm at the church. Karibu! Questions? WhatsApp Silas Kiprop at 07XX-XXX-XXX. Bwana asifiwe!

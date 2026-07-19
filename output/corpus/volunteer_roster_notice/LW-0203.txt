@@ -1,0 +1,41 @@
+---
+id: "LW-0203"
+category: "volunteer_roster_notice"
+timestamp: "2023-04-27T13:02:13Z"
+author: "Cherono Kigen"
+target_audience: "protocol team volunteers"
+location_tag: "Koru"
+language_mix: "primarily English"
+document_style: "roster_notice"
+keywords: ["assignment", "volunteer", "roster", "service duty", "schedule"]
+---
+
+VOLUNTEER ROSTER — PROTOCOL TEAM
+Londiani Worshippers
+=======================================================
+
+Team Lead: Cherono Kigen
+Assignment: 4th Sunday of each month
+
+ROSTER FOR THIS MONTH:
+
+First Service (7:30 AM):
+  • Hannah Mitei
+  • Priscilla Muge
+
+Second Service (10:00 AM):
+  • Eunice Kiprono
+  • Mary Kamau
+  • Volunteer needed
+
+DUTY REMINDERS:
+  ✓ Arrive at least 20 minutes before service starts
+  ✓ Check in with the team lead at the designated station
+  ✓ Wear your volunteer badge
+  ✓ If unable to serve, find a replacement and inform Cherono Kigen
+
+
+
+Thank you for serving the Lord through this ministry. Your dedication makes a difference every Sunday.
+
+— Cherono Kigen, Protocol Team Lead

@@ -1,0 +1,37 @@
+---
+id: "LW-0096"
+category: "facility_booking_request"
+timestamp: "2026-10-23T15:06:56Z"
+author: "Bett Ochieng"
+target_audience: "church administration"
+location_tag: "Londiani District Hospital"
+language_mix: "primarily English"
+document_style: "administrative_request"
+keywords: ["event", "women's", "facility", "venue"]
+---
+
+Booking Request Form
+Londiani Worshippers Church
+
+I am writing to request the use of the Youth Centre for the following event:
+
+Event Name: Women's Conference
+Organised by: Bett Ochieng
+Date: 2022-04-10
+Time: 07:00 — 12:00
+Expected attendees: 62
+Target audience: women from Kericho County churches
+
+Equipment needed:
+  1. Microphones (2 handheld, 1 lapel)
+  2. PA system
+  3. Pulpit and communion table
+
+Catering: Light refreshments only
+Cleaning: We will arrange cleaning after the event.
+
+I understand and agree to abide by the church facility use policy.
+Please contact me at 07XX-XXX-XXX to confirm.
+
+Thank you and God bless.
+— Bett Ochieng

@@ -1,0 +1,38 @@
+---
+id: "LW-0108"
+category: "counseling_intake_summary"
+timestamp: "2023-01-18T15:16:04Z"
+author: "Pastoral Care Coordinator"
+target_audience: "counselling team (confidential)"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "clinical_summary"
+keywords: ["assessment", "challenges", "parenting", "pastoral care", "intake", "counselling"]
+---
+
+Intake Form — Counselling Ministry, Londiani Worshippers
+CONFIDENTIAL — DO NOT DISTRIBUTE
+
+Ref #: CND-422
+Counsellor assigned: Pastoral Care Coordinator
+Presenting issue: parenting challenges
+
+CLIENT NARRATIVE:
+Client describes ongoing conflict with teenage children. Reports feeling overwhelmed and unsure how to maintain authority while showing love. One child has dropped out of school.
+
+OBSERVATIONS:
+  Affect: sad
+  Engagement level: high — client is motivated
+  Risk assessment: no immediate risk
+
+AGREED FOCUS AREAS:
+  → Understanding the situation through a biblical lens
+  → Developing practical steps forward
+  → Building a support network within the church community
+
+SESSION COUNT: 8 to date
+NEXT APPOINTMENT: To be scheduled
+
+Every person is created in the image of God and deserves dignity, compassion, and confidentiality.
+
+— Pastoral Care Coordinator

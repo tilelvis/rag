@@ -1,0 +1,38 @@
+---
+id: "LW-0110"
+category: "counseling_intake_summary"
+timestamp: "2026-04-02T03:34:26Z"
+author: "Pastoral Counsellor A"
+target_audience: "counselling team (confidential)"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "clinical_summary"
+keywords: ["confidential", "counselling", "pastoral care", "assessment", "intake", "conflict"]
+---
+
+Intake Form — Counselling Ministry, Londiani Worshippers
+CONFIDENTIAL — DO NOT DISTRIBUTE
+
+Ref #: CND-706
+Counsellor assigned: Pastoral Counsellor A
+Presenting issue: conflict resolution
+
+CLIENT NARRATIVE:
+Client is in a prolonged dispute with a family member over inheritance and property. The conflict has created a deep rift and is affecting spiritual life and church attendance.
+
+OBSERVATIONS:
+  Affect: tearful
+  Engagement level: high — client is motivated
+  Risk assessment: no immediate risk
+
+AGREED FOCUS AREAS:
+  → Understanding the situation through a biblical lens
+  → Developing practical steps forward
+  → Building a support network within the church community
+
+SESSION COUNT: 4 to date
+NEXT APPOINTMENT: To be scheduled
+
+Every person is created in the image of God and deserves dignity, compassion, and confidentiality.
+
+— Pastoral Counsellor A

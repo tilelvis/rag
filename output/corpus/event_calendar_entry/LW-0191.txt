@@ -1,0 +1,33 @@
+---
+id: "LW-0191"
+category: "event_calendar_entry"
+timestamp: "2023-07-26T09:35:51Z"
+author: "Drusilla Kimutai"
+target_audience: "all members and former members"
+location_tag: "Koru"
+language_mix: "English with occasional Swahili"
+document_style: "event_notice"
+keywords: ["registration", "calendar", "koru", "church", "all", "venue", "event"]
+---
+
+📅 EVENT: Church Anniversary Celebration
+
+Details:
+  Date: 2026-05-08
+  Time: 11:00 — 15:00
+  Venue: Main Sanctuary and compound
+  Target audience: all members and former members
+  Expected attendance: ~400
+  Coordinator: Drusilla Kimutai
+  Registration deadline: 2026-05-06
+
+Description:
+This event is organised by Londiani Worshippers and is open to the all members and former members. There will be food, games, and a special ministration by the choir.
+
+Registration:
+Contact Drusilla Kimutai at 07XX-XXX-XXX or register at the information desk after service.
+Early bird registration available — sign up before the deadline!
+
+Volunteer needs: Ushers (14), hospitality team (5), media/technical (4).
+
+Karibu! All are welcome.

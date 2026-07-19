@@ -1,0 +1,61 @@
+---
+id: "LW-0179"
+category: "church_board_minutes_excerpt"
+timestamp: "2025-08-25T17:17:51Z"
+author: "Peter Kiprop"
+target_audience: "church board members"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "meeting_minutes"
+keywords: ["church council", "community cleanup", "action items", "motions", "board minutes"]
+---
+
+CHURCH BOARD MINUTES
+Londiani Worshippers Church Council
+=======================================================
+
+Date: [Meeting Date]
+Time: 2:00 PM - 5:30 PM
+Venue: Conference Room A
+
+ATTENDANCE:
+  Present: 6 members
+  Absent with apology: 2
+  Chair: Isaac Ruto
+  Secretary: Peter Kiprop
+
+OPENING:
+The meeting was opened with prayer by Sigilai Githinji. The chair welcomed all members and confirmed quorum.
+
+AGENDA:
+
+1. MINUTES OF PREVIOUS MEETING
+   The minutes of the previous meeting were read and adopted. Motion: Jepkosgei Kiptoo. Second: Joseph Sang. Carried unanimously.
+
+2. FINANCIAL REPORT
+   The treasurer presented the quarterly financial statement. Total income was KES 545,711 against expenditure of Ksh 432,741. Surplus: Ksh 147,567.
+   RESOLUTION: The financial report is hereby adopted. Motion: Kigen Waweru. Second: John Akinyi.
+
+3. CHURCH CONSTRUCTION UPDATE
+   The building committee reported that the Sunday School block foundation is complete. Phase 2 (walls and roofing) requires an additional KES 1,180,768.
+   RESOLUTION: Approve the release of KES 420,559 from the building fund. Motion: Sigilai Githinji. Second: Joseph Sang. Carried.
+
+4. COMMUNITY CLEANUP RELIEF
+   The outreach committee proposed a relief effort for families affected by the community cleanup in Fort Ternan.
+   RESOLUTION: Allocate Ksh 22,846 for relief supplies. Volunteers to be mobilised through the ministry leaders.
+
+5. PASTORAL MATTERS
+   The pastor reported on membership growth and counselling cases (anonymised). Recommendation to hire an assistant pastor was discussed.
+   ACTION: The HR committee to prepare a job description and budget proposal for review at the next meeting.
+
+6. AOB
+   • The church compound fence needs repair action: Jepkosgei Kiptoo
+   • Christmas programme planning to begin in October
+   • Sound system upgrade approved in principle
+
+CLOSING:
+The meeting was closed with prayer by the chair at 5:30 PM.
+
+Signed:
+Chair: _______________ (Isaac Ruto)
+Secretary: _______________ (Peter Kiprop)

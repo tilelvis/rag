@@ -1,0 +1,15 @@
+---
+id: "LW-0214"
+category: "visitor_welcome_followup"
+timestamp: "2026-08-05T12:04:42Z"
+author: "Matthias Kurgat"
+target_audience: "new visitors"
+location_tag: "Londiani Town"
+language_mix: "English with Swahili phrases"
+document_style: "welcome_letter"
+keywords: ["follow-up", "welcome", "newcomer", "londiani", "visitor", "connection"]
+---
+
+[WhatsApp message to J.Q.]
+
+Hey there! 👋 This is Matthias Kurgat from Londiani Worshippers. Just wanted to say karibu sana for joining us today! My family and I really enjoyed meeting you after service. We have a small group that meets near Londiani Town on Tuesday evenings for Bible study and chai. It's super casual — would you like to come? No pressure at all! 😊 Also, if there's anything you need prayer for, just let me know. Mungu akubariki! — Matthias Kurgat

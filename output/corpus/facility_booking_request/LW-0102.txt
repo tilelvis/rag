@@ -1,0 +1,37 @@
+---
+id: "LW-0102"
+category: "facility_booking_request"
+timestamp: "2022-07-16T18:16:40Z"
+author: "Sarah Kipchumba"
+target_audience: "church administration"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "administrative_request"
+keywords: ["venue", "board", "request", "event"]
+---
+
+Booking Request Form
+Londiani Worshippers Church
+
+I am writing to request the use of the Outdoor Pergola for the following event:
+
+Event Name: Board Strategy Meeting
+Organised by: Sarah Kipchumba
+Date: 2026-07-07
+Time: 13:00 — 21:00
+Expected attendees: 203
+Target audience: church board members
+
+Equipment needed:
+  1. Microphones (2 handheld, 1 lapel)
+  2. PA system
+  3. Pulpit and communion table
+
+Catering: Light refreshments only
+Cleaning: We will arrange cleaning after the event.
+
+I understand and agree to abide by the church facility use policy.
+Please contact me at 07XX-XXX-XXX to confirm.
+
+Thank you and God bless.
+— Sarah Kipchumba

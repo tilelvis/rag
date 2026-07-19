@@ -1,0 +1,33 @@
+---
+id: "LW-0183"
+category: "event_calendar_entry"
+timestamp: "2023-06-11T13:33:37Z"
+author: "Aaron Kimani"
+target_audience: "men"
+location_tag: "Kipkelion"
+language_mix: "English with occasional Swahili"
+document_style: "event_notice"
+keywords: ["men's", "calendar", "event", "men"]
+---
+
+📅 EVENT: Men's Fellowship Breakfast
+
+Details:
+  Date: 2023-11-26
+  Time: 15:00 — 12:00
+  Venue: Fellowship Hall, Londiani Worshippers
+  Target audience: men
+  Expected attendance: ~45
+  Coordinator: Aaron Kimani
+  Registration deadline: 2025-08-01
+
+Description:
+This event is organised by Londiani Worshippers and is open to the men. 
+
+Registration:
+Contact Aaron Kimani at 07XX-XXX-XXX or register at the information desk after service.
+
+
+Volunteer needs: Ushers (8), hospitality team (3), media/technical (3).
+
+Karibu! All are welcome.

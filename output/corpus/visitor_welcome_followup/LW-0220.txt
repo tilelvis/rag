@@ -1,0 +1,32 @@
+---
+id: "LW-0220"
+category: "visitor_welcome_followup"
+timestamp: "2025-03-07T10:05:55Z"
+author: "Bett Rotich"
+target_audience: "new visitors"
+location_tag: "Kedowa"
+language_mix: "English with Swahili phrases"
+document_style: "sms"
+keywords: ["kedowa", "connection", "visitor", "newcomer"]
+---
+
+WELCOME CARD — LONDIANI WORSHIPPERS
+
+Dear H.G.,
+
+We are thrilled that you chose to worship with us!
+
+At Londiani Worshippers, we believe:
+  ♥ God loves you — John 3:16
+  ♥ You have a purpose — Jeremiah 29:11
+  ♥ You belong here — Romans 12:5
+
+Next Steps:
+  □ Fill in a visitor card (available at the information desk)
+  □ Attend a newcomers' tea with the pastor
+  □ Join a cell group near Kedowa
+
+Contact: Bett Rotich — 07XX-XXX-XXX
+Church Office: 052-XXX-XXX
+
+Karibu home! 🏠

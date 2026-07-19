@@ -1,0 +1,61 @@
+---
+id: "LW-0177"
+category: "church_board_minutes_excerpt"
+timestamp: "2026-01-28T06:24:25Z"
+author: "Chebet Korir"
+target_audience: "church board members"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "meeting_minutes"
+keywords: ["motions", "construction", "action items", "board minutes", "resolutions"]
+---
+
+CHURCH BOARD MINUTES
+Londiani Worshippers Church Council
+=======================================================
+
+Date: [Meeting Date]
+Time: 2:00 PM - 5:30 PM
+Venue: Conference Room A
+
+ATTENDANCE:
+  Present: 11 members
+  Absent with apology: 2
+  Chair: Stephen Otieno
+  Secretary: Chebet Korir
+
+OPENING:
+The meeting was opened with prayer by Silas Ochieng. The chair welcomed all members and confirmed quorum.
+
+AGENDA:
+
+1. MINUTES OF PREVIOUS MEETING
+   The minutes of the previous meeting were read and adopted. Motion: Chepchumba Njoroge. Second: Samuel Omondi. Carried unanimously.
+
+2. FINANCIAL REPORT
+   The treasurer presented the quarterly financial statement. Total income was KES 310,895 against expenditure of KES 232,500. Surplus: Ksh 124,018.
+   RESOLUTION: The financial report is hereby adopted. Motion: Deborah Kibiwott. Second: Hannah Kiptanui.
+
+3. CHURCH CONSTRUCTION UPDATE
+   The building committee reported that the Sunday School block foundation is complete. Phase 2 (walls and roofing) requires an additional KES 1,193,223.
+   RESOLUTION: Approve the release of Ksh 373,132 from the building fund. Motion: Silas Ochieng. Second: Samuel Omondi. Carried.
+
+4. COMMUNITY OUTREACH
+   The outreach committee proposed a relief effort for families affected by recent challenges in Molo Road.
+   RESOLUTION: Allocate Ksh 51,556 for relief supplies. Volunteers to be mobilised through the ministry leaders.
+
+5. PASTORAL MATTERS
+   The pastor reported on membership growth and counselling cases (anonymised). Recommendation to hire an assistant pastor was discussed.
+   ACTION: The HR committee to prepare a job description and budget proposal for review at the next meeting.
+
+6. AOB
+   • The church compound fence needs repair action: Chepchumba Njoroge
+   • Christmas programme planning to begin in October
+   • Sound system upgrade approved in principle
+
+CLOSING:
+The meeting was closed with prayer by the chair at 5:30 PM.
+
+Signed:
+Chair: _______________ (Stephen Otieno)
+Secretary: _______________ (Chebet Korir)

@@ -1,0 +1,41 @@
+---
+id: "LW-0174"
+category: "church_board_minutes_excerpt"
+timestamp: "2024-08-07T01:37:40Z"
+author: "Julia Chege"
+target_audience: "church board members"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "meeting_minutes"
+keywords: ["resolutions", "church council", "construction", "financial report", "board minutes", "governance", "action items"]
+---
+
+EXCERPT — CHURCH BOARD MEETING
+Londiani Worshippers
+
+Chair: Chemutai Kilel | Secretary: Julia Chege
+Present: 12 | Apologies: 2
+
+KEY DECISIONS:
+
+✅ MOTION 1: Approve the annual budget of Ksh 2,081,659
+  Proposed: Barnabas Kigen | Seconded: Koech Kemboi | Result: Passed
+
+✅ MOTION 2: Purchase new PA system for Ksh 163,458
+  Proposed: Samuel Kigen | Seconded: Lydia Muthoni | Result: Passed
+
+❌ MOTION 3: Change Sunday service times
+  Proposed: Eunice Kiptanui | Result: Deferred for congregational input
+
+✅ MOTION 4: Approve KES 60,333 for community outreach in Tulwet
+  Proposed: Chemutai Kilel | Seconded: Barnabas Kigen | Result: Passed
+
+ACTION ITEMS:
+  1. Koech Kemboi — Get three quotes for the PA system by next meeting
+  2. Lydia Muthoni — Draft the assistant pastor job description
+  3. Samuel Kigen — Coordinate outreach programme logistics
+  4. Barnabas Kigen — Follow up on compound fence repair
+
+Next meeting: First Saturday of next month, 2 PM.
+
+— Julia Chege, Board Secretary

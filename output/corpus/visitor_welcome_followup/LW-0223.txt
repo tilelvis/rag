@@ -1,0 +1,15 @@
+---
+id: "LW-0223"
+category: "visitor_welcome_followup"
+timestamp: "2024-03-04T16:12:20Z"
+author: "Peter Cheboi"
+target_audience: "new visitors"
+location_tag: "Kedowa"
+language_mix: "primarily English"
+document_style: "email"
+keywords: ["visitor", "welcome", "follow-up", "connection"]
+---
+
+[WhatsApp message to S.V.]
+
+Hello! 😊 This is Peter Cheboi from Londiani Worshippers. We were so glad to see you in service today! It was a blessing to have you with us. We have a newcomers' class every Wednesday at 6 PM — it's a great way to learn more about our church family. Would you be interested? Also, here's a link to our weekly bulletin and events calendar. Feel free to ask me anything! Tuko pamoja. 🙏

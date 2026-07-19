@@ -1,0 +1,41 @@
+---
+id: "LW-0201"
+category: "volunteer_roster_notice"
+timestamp: "2023-03-30T21:05:53Z"
+author: "Lois Bett"
+target_audience: "worship team volunteers"
+location_tag: "Kipkelion East"
+language_mix: "primarily English"
+document_style: "roster_notice"
+keywords: ["worship", "schedule", "volunteer", "team"]
+---
+
+VOLUNTEER ROSTER — WORSHIP TEAM
+Londiani Worshippers
+=======================================================
+
+Team Lead: Lois Bett
+Assignment: 1st Sunday of each month
+
+ROSTER FOR THIS MONTH:
+
+First Service (7:30 AM):
+  • Grace Ochieng
+  • Dorcas Kilel
+
+Second Service (10:00 AM):
+  • Jepkosgei Ng'eno
+  • Kosgei Kimutai
+  • Jeptoo Chege
+
+DUTY REMINDERS:
+  ✓ Arrive at least 20 minutes before service starts
+  ✓ Check in with the team lead at the designated station
+  ✓ Wear your volunteer badge
+  ✓ If unable to serve, find a replacement and inform Lois Bett
+
+
+
+Thank you for serving the Lord through this ministry. Your dedication makes a difference every Sunday.
+
+— Lois Bett, Worship Team Lead

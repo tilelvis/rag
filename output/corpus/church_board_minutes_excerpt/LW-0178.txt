@@ -1,0 +1,41 @@
+---
+id: "LW-0178"
+category: "church_board_minutes_excerpt"
+timestamp: "2023-03-20T09:23:16Z"
+author: "Mary Muthoni"
+target_audience: "church board members"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "meeting_minutes"
+keywords: ["financial report", "resolutions", "construction", "motions", "action items"]
+---
+
+EXCERPT — CHURCH BOARD MEETING
+Londiani Worshippers
+
+Chair: Moses Langat | Secretary: Mary Muthoni
+Present: 7 | Apologies: 2
+
+KEY DECISIONS:
+
+✅ MOTION 1: Approve the annual budget of Ksh 3,071,976
+  Proposed: Hannah Too | Seconded: Miriam Otieno | Result: Passed
+
+✅ MOTION 2: Purchase new PA system for KES 233,679
+  Proposed: Chebet Njoroge | Seconded: Solomon Kurgat | Result: Passed
+
+❌ MOTION 3: Change Sunday service times
+  Proposed: Peter Maina | Result: Deferred for congregational input
+
+✅ MOTION 4: Approve Ksh 44,376 for community outreach in Kipkelion
+  Proposed: Moses Langat | Seconded: Hannah Too | Result: Passed
+
+ACTION ITEMS:
+  1. Miriam Otieno — Get three quotes for the PA system by next meeting
+  2. Solomon Kurgat — Draft the assistant pastor job description
+  3. Chebet Njoroge — Coordinate boda boda programme logistics
+  4. Hannah Too — Follow up on compound fence repair
+
+Next meeting: First Saturday of next month, 2 PM.
+
+— Mary Muthoni, Board Secretary

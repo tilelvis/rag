@@ -1,0 +1,41 @@
+---
+id: "LW-0176"
+category: "church_board_minutes_excerpt"
+timestamp: "2024-03-29T02:16:09Z"
+author: "Tanui Kiptanui"
+target_audience: "church board members"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "meeting_minutes"
+keywords: ["governance", "construction", "action items", "motions", "board minutes"]
+---
+
+EXCERPT — CHURCH BOARD MEETING
+Londiani Worshippers
+
+Chair: Mary Kiptanui | Secretary: Tanui Kiptanui
+Present: 6 | Apologies: 1
+
+KEY DECISIONS:
+
+✅ MOTION 1: Approve the annual budget of KES 3,160,054
+  Proposed: Sapphira Kiptanui | Seconded: Mary Maina | Result: Passed
+
+✅ MOTION 2: Purchase new PA system for Ksh 212,240
+  Proposed: Philip Otieno | Seconded: Joshua Too | Result: Passed
+
+❌ MOTION 3: Change Sunday service times
+  Proposed: Barnabas Cheboi | Result: Deferred for congregational input
+
+✅ MOTION 4: Approve Ksh 71,521 for community outreach in Kipkelion West
+  Proposed: Mary Kiptanui | Seconded: Sapphira Kiptanui | Result: Passed
+
+ACTION ITEMS:
+  1. Mary Maina — Get three quotes for the PA system by next meeting
+  2. Joshua Too — Draft the assistant pastor job description
+  3. Philip Otieno — Coordinate outreach programme logistics
+  4. Sapphira Kiptanui — Follow up on compound fence repair
+
+Next meeting: First Saturday of next month, 2 PM.
+
+— Tanui Kiptanui, Board Secretary

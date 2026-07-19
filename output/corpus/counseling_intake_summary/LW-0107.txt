@@ -1,0 +1,50 @@
+---
+id: "LW-0107"
+category: "counseling_intake_summary"
+timestamp: "2026-07-07T05:33:51Z"
+author: "Pastoral Care Coordinator"
+target_audience: "counselling team (confidential)"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "clinical_summary"
+keywords: ["counselling", "confidential", "intake", "recovery", "assessment", "pastoral care"]
+---
+
+COUNSELLING INTAKE SUMMARY — CONFIDENTIAL
+=======================================================
+Case Reference: CND-756
+Counsellor: Pastoral Care Coordinator
+Sessions completed: 3
+Presenting concern: addiction recovery
+=======================================================
+
+PRESENTING ISSUE:
+Client acknowledges dependence on alcohol for the past several years. Reports desire to stop but has experienced multiple relapses. Family relationships have been severely affected.
+
+ASSESSMENT:
+Client appeared calm but withdrawn. Verbal communication was clear and coherent. Client expressed willingness to engage in the counselling process.
+
+GOALS IDENTIFIED:
+  1. Process the presenting concern in a safe and supportive environment
+  2. Develop healthy coping strategies grounded in biblical truth
+  3. Restore and strengthen spiritual connection
+  4. Improve relational dynamics where applicable
+
+APPROACH:
+  • Biblically-integrated counselling with active listening
+  • Scripture meditation and prayer as part of each session
+  • Referral to professional therapist if symptoms persist beyond church counselling scope
+
+SESSION NOTES (Summary):
+Session 1: Intake and rapport building. Client shared history reluctantly. Prayed together at close.
+Session 2: Client showed slight improvement in openness. Discussed coping mechanisms.
+Session 3+: Ongoing support. Client reports incremental progress.
+
+DISPOSITION:
+  ☐ Continue counselling
+  ☐ Refer to professional therapist
+  ☐ Spiritual direction recommended
+
+NOTE: All identifying information has been removed. This document is stored securely and is accessible only to authorised counselling staff.
+
+— Pastoral Care Coordinator

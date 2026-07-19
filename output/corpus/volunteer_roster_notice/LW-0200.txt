@@ -1,0 +1,36 @@
+---
+id: "LW-0200"
+category: "volunteer_roster_notice"
+timestamp: "2022-06-04T04:50:06Z"
+author: "Daniel Sigei"
+target_audience: "parking team volunteers"
+location_tag: "Londiani Catholic Parish"
+language_mix: "primarily English"
+document_style: "roster_notice"
+keywords: ["volunteer", "roster", "assignment", "parking", "team", "service duty"]
+---
+
+📢 PARKING TEAM — SERVICE ROSTER
+
+Hello team! Here is your schedule:
+
+DATE: 3rd Sunday
+TEAM LEAD: Daniel Sigei
+
+ASSIGNMENTS:
+  1. James Otieno — Londiani Catholic Parish
+  2. Andrew Chepkwony — Side entrance
+  3. Andrew Tum — Sound booth
+  4. Ezekiel Koech — Parking lot
+
+CHECKLIST:
+  □ Report by 7:10 AM (first service) or 9:40 AM (second service)
+  □ Coordinate with other teams at the 7:00 AM huddle
+  □ Ensure all equipment/supplies are in place before service
+  □ Debrief briefly after service
+
+Need to swap? Contact Daniel Sigei directly. Please do not just skip — every role matters for a smooth service.
+
+Asante sana for your commitment! If anyone wants to join the parking team, speak to Daniel Sigei after service.
+
+Tuko pamoja! 💪

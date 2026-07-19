@@ -1,0 +1,15 @@
+---
+id: "LW-0217"
+category: "visitor_welcome_followup"
+timestamp: "2026-02-24T17:33:36Z"
+author: "Deborah Odhiambo"
+target_audience: "new visitors"
+location_tag: "Kedowa"
+language_mix: "English with Swahili phrases"
+document_style: "whatsapp_message"
+keywords: ["connection", "newcomer", "follow-up", "kedowa", "visitor"]
+---
+
+[WhatsApp to R.G.]
+
+Karibu at Londiani Worshippers! 🎉 Deborah Odhiambo here. We're so glad you came! Next Sunday we have a special testimony Sunday — members will be sharing what God has done in their lives. It's always powerful! Would love to see you there. Services at 7:30 and 10 AM. If you need directions from Kedowa, just ask! Asante sana and God bless! 🙏✨

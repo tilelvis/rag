@@ -1,0 +1,38 @@
+---
+id: "LW-0188"
+category: "event_calendar_entry"
+timestamp: "2023-09-22T23:22:12Z"
+author: "Miriam Githinji"
+target_audience: "children 4-14 years"
+location_tag: "Molo Road"
+language_mix: "English with occasional Swahili"
+document_style: "event_notice"
+keywords: ["molo", "venue", "children's", "calendar", "event"]
+---
+
+EVENT CALENDAR ENTRY
+──────────────────────────────────────────────────
+Title: Children's Holiday Bible Club
+Date: 2023-04-24
+Venue: Sunday School Block
+Audience: children 4-14 years
+Coordinator: Miriam Githinji
+Expected turnout: 100
+Registration closes: 2023-08-24
+──────────────────────────────────────────────────
+
+About this event:
+A special gathering for children 4-14 years, hosted by Londiani Worshippers. The programme includes worship, teaching, fellowship, and prayer.
+
+Logistics:
+  • Sound and projection: Technical team to set up by 7 AM
+  • Seating arrangement: Ushering team
+  • Catering: Hospitality team (estimate food for 100)
+  • Security: 3 personnel assigned
+
+Budget estimate: KES 44,787
+Approved by: Church Board
+
+Rain plan: Venue is indoors no change needed
+
+For questions, reach Miriam Githinji via church office.

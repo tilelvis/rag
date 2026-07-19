@@ -1,0 +1,41 @@
+---
+id: "LW-0168"
+category: "church_board_minutes_excerpt"
+timestamp: "2023-08-25T04:14:06Z"
+author: "Mark Chege"
+target_audience: "church board members"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "meeting_minutes"
+keywords: ["church council", "resolutions", "construction", "board minutes", "governance", "financial report"]
+---
+
+EXCERPT — CHURCH BOARD MEETING
+Londiani Worshippers
+
+Chair: Junia Koskei | Secretary: Mark Chege
+Present: 11 | Apologies: 3
+
+KEY DECISIONS:
+
+✅ MOTION 1: Approve the annual budget of Ksh 3,288,024
+  Proposed: Junia Tum | Seconded: Paul Wanjiku | Result: Passed
+
+✅ MOTION 2: Purchase new PA system for Ksh 218,973
+  Proposed: David Kiprono | Seconded: David Cheboi | Result: Passed
+
+❌ MOTION 3: Change Sunday service times
+  Proposed: Thomas Kiprop | Result: Deferred for congregational input
+
+✅ MOTION 4: Approve KES 69,543 for community outreach in Kipsitet
+  Proposed: Junia Koskei | Seconded: Junia Tum | Result: Passed
+
+ACTION ITEMS:
+  1. Paul Wanjiku — Get three quotes for the PA system by next meeting
+  2. David Cheboi — Draft the assistant pastor job description
+  3. David Kiprono — Coordinate outreach programme logistics
+  4. Junia Tum — Follow up on compound fence repair
+
+Next meeting: First Saturday of next month, 2 PM.
+
+— Mark Chege, Board Secretary

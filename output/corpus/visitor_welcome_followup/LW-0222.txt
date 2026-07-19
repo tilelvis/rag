@@ -1,0 +1,15 @@
+---
+id: "LW-0222"
+category: "visitor_welcome_followup"
+timestamp: "2023-10-21T06:34:07Z"
+author: "Timothy Maiyo"
+target_audience: "new visitors"
+location_tag: "Londiani Town"
+language_mix: "English with Swahili phrases"
+document_style: "whatsapp_message"
+keywords: ["newcomer", "londiani", "welcome", "whatsapp message"]
+---
+
+[SMS to X.R.]
+
+Karibu! Thank you for worshipping with us at Londiani Worshippers today. We would love to connect with you. Feel free to join our WhatsApp group or call 07XX-XXX-XXX for any questions. Mungu akubariki! — Timothy Maiyo

@@ -1,0 +1,49 @@
+name: Build RAG Index
+
+# Runs after the dataset-generation workflow finishes (so it always indexes
+# the freshest committed corpus), and can also be triggered manually.
+on:
+  workflow_run:
+    workflows: ["Generate Dataset"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-index:
+    runs-on: ubuntu-latest
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      github.event.workflow_run.conclusion == 'success'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements-rag.txt
+
+      - name: Build vector + BM25 index
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python3 -m rag.ingest
+
+      - name: Run retrieval smoke tests
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python3 -m rag.evaluate
+
+      - name: Commit index back to the repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add rag/chroma_db rag/bm25_index.pkl
+          git diff --staged --quiet || git commit -m "chore: rebuild RAG index [skip ci]"
+          git push

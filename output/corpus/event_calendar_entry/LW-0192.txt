@@ -1,0 +1,38 @@
+---
+id: "LW-0192"
+category: "event_calendar_entry"
+timestamp: "2025-03-29T08:43:25Z"
+author: "Miriam Muthoni"
+target_audience: "ministry leaders, deacons, elders"
+location_tag: "Kipkelion East"
+language_mix: "English with occasional Swahili"
+document_style: "event_notice"
+keywords: ["calendar", "ministry", "kipkelion", "registration", "event"]
+---
+
+EVENT CALENDAR ENTRY
+──────────────────────────────────────────────────
+Title: Leadership Summit
+Date: 2023-02-24
+Venue: Conference Room A
+Audience: ministry leaders, deacons, elders
+Coordinator: Miriam Muthoni
+Expected turnout: 35
+Registration closes: 2023-10-22
+──────────────────────────────────────────────────
+
+About this event:
+A special gathering for ministry leaders, deacons, elders, hosted by Londiani Worshippers. The programme includes worship, teaching, fellowship, and prayer.
+
+Logistics:
+  • Sound and projection: Technical team to set up by 7 AM
+  • Seating arrangement: Ushering team
+  • Catering: Hospitality team (estimate food for 35)
+  • Security: 4 personnel assigned
+
+Budget estimate: Ksh 40,907
+Approved by: Church Board
+
+Rain plan: Venue is indoors no change needed
+
+For questions, reach Miriam Muthoni via church office.

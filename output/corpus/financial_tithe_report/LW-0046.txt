@@ -1,0 +1,44 @@
+---
+id: "LW-0046"
+category: "financial_tithe_report"
+timestamp: "2022-07-29T21:36:20Z"
+author: "Finance Committee"
+target_audience: "church board and members"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "financial_summary"
+keywords: ["expenditure", "offerings", "missions", "construction fund", "financial report", "balance"]
+---
+
+Financial Report — Londiani Worshippers
+Month of September 2026
+
+Dear Church Board,
+
+Here is a summary of our financial position for the reporting period.
+
+RECEIPTS:
+• Tithes: KES 49,308 — This includes both Sunday collections and M-Pesa transfers.
+• Offerings (general): KES 165,102
+• Designated giving (missions): Ksh 47,686
+• Construction fund: KES 20,855 — On track with our annual target.
+• Welfare and compassionate fund: KES 31,545
+• Youth ministry: Ksh 9,704
+
+Total receipts: Ksh 324,200
+
+DISBURSEMENTS:
+• Utilities and rent: Ksh 24,544
+• Pastor's allowance: Ksh 39,065
+• Community outreach: KES 5,025
+• Repairs and maintenance: KES 13,073 
+• Office supplies and admin: Ksh 4,890
+
+Total disbursements: KES 86,597
+
+Surplus/(Deficit): KES 237,603
+
+We commend the congregation for consistent giving despite the challenges of the tea picking season season. Detailed ledgers are available for audit upon request.
+
+Respectfully submitted,
+— Finance Committee, Londiani Worshippers

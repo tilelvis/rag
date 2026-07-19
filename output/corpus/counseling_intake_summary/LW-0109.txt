@@ -1,0 +1,50 @@
+---
+id: "LW-0109"
+category: "counseling_intake_summary"
+timestamp: "2022-03-25T08:10:20Z"
+author: "Counselling Team Lead"
+target_audience: "counselling team (confidential)"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "clinical_summary"
+keywords: ["marriage", "intake", "confidential", "assessment", "pastoral care", "preparation"]
+---
+
+COUNSELLING INTAKE SUMMARY — CONFIDENTIAL
+=======================================================
+Case Reference: CND-354
+Counsellor: Counselling Team Lead
+Sessions completed: 2
+Presenting concern: marriage preparation
+=======================================================
+
+PRESENTING ISSUE:
+Couple is preparing for marriage and wishes to address communication patterns and financial expectations before the wedding. Both come from different church backgrounds.
+
+ASSESSMENT:
+Client appeared guarded initially. Verbal communication was measured and thoughtful. Client expressed willingness to engage in the counselling process.
+
+GOALS IDENTIFIED:
+  1. Process the presenting concern in a safe and supportive environment
+  2. Develop healthy coping strategies grounded in biblical truth
+  3. Restore and strengthen spiritual connection
+  4. Improve relational dynamics where applicable
+
+APPROACH:
+  • Biblically-integrated counselling with active listening
+  • Scripture meditation and prayer as part of each session
+  • Referral to professional therapist if symptoms persist beyond church counselling scope
+
+SESSION NOTES (Summary):
+Session 1: Intake and rapport building. Client shared history reluctantly. Prayed together at close.
+Session 2: Client showed slight improvement in openness. Discussed coping mechanisms.
+
+
+DISPOSITION:
+  ☐ Continue counselling
+  ☐ Refer to professional therapist
+  ☐ Spiritual direction recommended
+
+NOTE: All identifying information has been removed. This document is stored securely and is accessible only to authorised counselling staff.
+
+— Counselling Team Lead

@@ -1,0 +1,61 @@
+---
+id: "LW-0169"
+category: "church_board_minutes_excerpt"
+timestamp: "2025-07-16T06:04:52Z"
+author: "Rhoda Langat"
+target_audience: "church board members"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "meeting_minutes"
+keywords: ["resolutions", "motions", "church council", "construction", "governance", "financial report", "action items"]
+---
+
+CHURCH BOARD MINUTES
+Londiani Worshippers Church Council
+=======================================================
+
+Date: [Meeting Date]
+Time: 2:00 PM - 5:30 PM
+Venue: Conference Room A
+
+ATTENDANCE:
+  Present: 10 members
+  Absent with apology: 3
+  Chair: Koech Mitei
+  Secretary: Rhoda Langat
+
+OPENING:
+The meeting was opened with prayer by Moses Kamau. The chair welcomed all members and confirmed quorum.
+
+AGENDA:
+
+1. MINUTES OF PREVIOUS MEETING
+   The minutes of the previous meeting were read and adopted. Motion: Thomas Kiprono. Second: Timothy Kipchumba. Carried unanimously.
+
+2. FINANCIAL REPORT
+   The treasurer presented the quarterly financial statement. Total income was KES 357,891 against expenditure of KES 438,442. Surplus: Ksh 132,764.
+   RESOLUTION: The financial report is hereby adopted. Motion: Lydia Rotich. Second: Lydia Kigen.
+
+3. CHURCH CONSTRUCTION UPDATE
+   The building committee reported that the Sunday School block foundation is complete. Phase 2 (walls and roofing) requires an additional KES 1,050,916.
+   RESOLUTION: Approve the release of Ksh 296,400 from the building fund. Motion: Moses Kamau. Second: Timothy Kipchumba. Carried.
+
+4. COMMUNITY OUTREACH
+   The outreach committee proposed a relief effort for families affected by recent challenges in Koru.
+   RESOLUTION: Allocate Ksh 71,528 for relief supplies. Volunteers to be mobilised through the ministry leaders.
+
+5. PASTORAL MATTERS
+   The pastor reported on membership growth and counselling cases (anonymised). Recommendation to hire an assistant pastor was discussed.
+   ACTION: The HR committee to prepare a job description and budget proposal for review at the next meeting.
+
+6. AOB
+   • The church compound fence needs repair action: Thomas Kiprono
+   • Christmas programme planning to begin in October
+   • Sound system upgrade approved in principle
+
+CLOSING:
+The meeting was closed with prayer by the chair at 5:30 PM.
+
+Signed:
+Chair: _______________ (Koech Mitei)
+Secretary: _______________ (Rhoda Langat)

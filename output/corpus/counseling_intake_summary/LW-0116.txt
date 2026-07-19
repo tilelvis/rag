@@ -1,0 +1,38 @@
+---
+id: "LW-0116"
+category: "counseling_intake_summary"
+timestamp: "2026-11-27T14:15:54Z"
+author: "Pastoral Care Coordinator"
+target_audience: "counselling team (confidential)"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "clinical_summary"
+keywords: ["counselling", "recovery", "assessment", "trauma", "pastoral care", "intake"]
+---
+
+Intake Form — Counselling Ministry, Londiani Worshippers
+CONFIDENTIAL — DO NOT DISTRIBUTE
+
+Ref #: CND-736
+Counsellor assigned: Pastoral Care Coordinator
+Presenting issue: trauma recovery
+
+CLIENT NARRATIVE:
+Client is a survivor of a violent incident. Experiences flashbacks and avoids certain locations. Has not shared the experience with family members. Seeks spiritual and emotional healing.
+
+OBSERVATIONS:
+  Affect: sad
+  Engagement level: moderate — willing but hesitant
+  Risk assessment: moderate concern — referral considered
+
+AGREED FOCUS AREAS:
+  → Understanding the situation through a biblical lens
+  → Developing practical steps forward
+  → Building a support network within the church community
+
+SESSION COUNT: 5 to date
+NEXT APPOINTMENT: To be scheduled
+
+Every person is created in the image of God and deserves dignity, compassion, and confidentiality.
+
+— Pastoral Care Coordinator

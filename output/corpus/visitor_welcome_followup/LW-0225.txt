@@ -1,0 +1,40 @@
+---
+id: "LW-0225"
+category: "visitor_welcome_followup"
+timestamp: "2022-11-06T10:59:27Z"
+author: "Lois Cheboi"
+target_audience: "new visitors"
+location_tag: "Londiani Catholic Parish"
+language_mix: "primarily English"
+document_style: "sms"
+keywords: ["sms", "newcomer", "connection", "visitor", "londiani"]
+---
+
+LONDIANI WORSHIPPERS
+P.O. Box XXX, Londiani
+Kericho County, Kenya
+
+Date: [Current Date]
+
+Q.W.
+[Address on file]
+
+Dear Q.W.,
+
+On behalf of the entire congregation of Londiani Worshippers, I write to express our joy at your visit with us. It is always a blessing when the Lord brings new people into our fellowship, and we trust that your time with us was uplifting.
+
+Londiani Worshippers is a community of believers committed to glorifying God, making disciples, and serving our neighbours in Londiani Catholic Parish and beyond. We would be honoured to walk alongside you in your faith journey.
+
+As a next step, I encourage you to:
+  1. Attend our membership class, held quarterly
+  2. Join one of our cell groups in your area
+  3. Explore our various ministry opportunities
+
+Please do not hesitate to contact the church office if you have any questions or needs. We are here for you.
+
+May the peace of God, which transcends all understanding, guard your heart and mind in Christ Jesus (Philippians 4:7).
+
+Yours in Christ,
+
+Lois Cheboi
+Pastor, Londiani Worshippers

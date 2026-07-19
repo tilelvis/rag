@@ -1,0 +1,38 @@
+---
+id: "LW-0194"
+category: "event_calendar_entry"
+timestamp: "2025-07-03T07:07:07Z"
+author: "Kigen Kimani"
+target_audience: "congregation"
+location_tag: "Molo Road"
+language_mix: "English with occasional Swahili"
+document_style: "event_notice"
+keywords: ["missions", "congregation", "venue", "calendar"]
+---
+
+EVENT CALENDAR ENTRY
+──────────────────────────────────────────────────
+Title: Missions Awareness Sunday
+Date: 2024-05-12
+Venue: Main Sanctuary
+Audience: congregation
+Coordinator: Kigen Kimani
+Expected turnout: 280
+Registration closes: 2022-08-24
+──────────────────────────────────────────────────
+
+About this event:
+A special gathering for congregation, hosted by Londiani Worshippers. The programme includes worship, teaching, fellowship, and prayer.
+
+Logistics:
+  • Sound and projection: Technical team to set up by 7 AM
+  • Seating arrangement: Ushering team
+  • Catering: Hospitality team (estimate food for 280)
+  • Security: 4 personnel assigned
+
+Budget estimate: KES 43,779
+Approved by: Church Board
+
+Rain plan: Venue is indoors no change needed
+
+For questions, reach Kigen Kimani via church office.

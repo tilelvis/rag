@@ -1,0 +1,15 @@
+---
+id: "LW-0216"
+category: "visitor_welcome_followup"
+timestamp: "2022-06-03T04:54:06Z"
+author: "Phoebe Bett"
+target_audience: "new visitors"
+location_tag: "Kedowa"
+language_mix: "primarily English"
+document_style: "sms"
+keywords: ["sms", "welcome", "visitor", "kedowa", "connection", "follow-up"]
+---
+
+[SMS to P.S.]
+
+Thank you for visiting Londiani Worshippers. We are praying for you this week. Service times: 7:30 AM & 10:00 AM. Office: 052-XXX-XXX. God bless you. — Phoebe Bett

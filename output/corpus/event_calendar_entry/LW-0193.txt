@@ -1,0 +1,33 @@
+---
+id: "LW-0193"
+category: "event_calendar_entry"
+timestamp: "2025-05-22T18:59:57Z"
+author: "Jepkosgei Ochieng"
+target_audience: "Londiani Town community"
+location_tag: "Chepseon"
+language_mix: "English with occasional Swahili"
+document_style: "event_notice"
+keywords: ["Londiani", "calendar", "event", "chepseon"]
+---
+
+📅 EVENT: Community Health Fair
+
+Details:
+  Date: 2026-12-11
+  Time: 14:00 — 12:00
+  Venue: Church Compound
+  Target audience: Londiani Town community
+  Expected attendance: ~200
+  Coordinator: Jepkosgei Ochieng
+  Registration deadline: 2023-11-17
+
+Description:
+This event is organised by Londiani Worshippers and is open to the Londiani Town community. 
+
+Registration:
+Contact Jepkosgei Ochieng at 07XX-XXX-XXX or register at the information desk after service.
+Early bird registration available — sign up before the deadline!
+
+Volunteer needs: Ushers (9), hospitality team (7), media/technical (2).
+
+Karibu! All are welcome.

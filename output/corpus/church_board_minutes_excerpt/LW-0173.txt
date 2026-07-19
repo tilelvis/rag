@@ -1,0 +1,61 @@
+---
+id: "LW-0173"
+category: "church_board_minutes_excerpt"
+timestamp: "2025-01-14T14:09:59Z"
+author: "Daniel Ng'eno"
+target_audience: "church board members"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "meeting_minutes"
+keywords: ["action items", "board minutes", "motions", "financial report", "matatu"]
+---
+
+CHURCH BOARD MINUTES
+Londiani Worshippers Church Council
+=======================================================
+
+Date: [Meeting Date]
+Time: 2:00 PM - 5:30 PM
+Venue: Conference Room A
+
+ATTENDANCE:
+  Present: 11 members
+  Absent with apology: 3
+  Chair: Kipruto Akinyi
+  Secretary: Daniel Ng'eno
+
+OPENING:
+The meeting was opened with prayer by Philip Korir. The chair welcomed all members and confirmed quorum.
+
+AGENDA:
+
+1. MINUTES OF PREVIOUS MEETING
+   The minutes of the previous meeting were read and adopted. Motion: Dorcas Tum. Second: Solomon Kemboi. Carried unanimously.
+
+2. FINANCIAL REPORT
+   The treasurer presented the quarterly financial statement. Total income was Ksh 228,515 against expenditure of KES 437,756. Surplus: KES 102,045.
+   RESOLUTION: The financial report is hereby adopted. Motion: Miriam Kiptanui. Second: Thomas Kiprop.
+
+3. CHURCH CONSTRUCTION UPDATE
+   The building committee reported that the Sunday School block foundation is complete. Phase 2 (walls and roofing) requires an additional KES 570,634.
+   RESOLUTION: Approve the release of Ksh 303,503 from the building fund. Motion: Philip Korir. Second: Solomon Kemboi. Carried.
+
+4. MATATU RELIEF
+   The outreach committee proposed a relief effort for families affected by the matatu in Kipkelion.
+   RESOLUTION: Allocate Ksh 51,928 for relief supplies. Volunteers to be mobilised through the ministry leaders.
+
+5. PASTORAL MATTERS
+   The pastor reported on membership growth and counselling cases (anonymised). Recommendation to hire an assistant pastor was discussed.
+   ACTION: The HR committee to prepare a job description and budget proposal for review at the next meeting.
+
+6. AOB
+   • The church compound fence needs repair action: Dorcas Tum
+   • Christmas programme planning to begin in October
+   • Sound system upgrade approved in principle
+
+CLOSING:
+The meeting was closed with prayer by the chair at 5:30 PM.
+
+Signed:
+Chair: _______________ (Kipruto Akinyi)
+Secretary: _______________ (Daniel Ng'eno)

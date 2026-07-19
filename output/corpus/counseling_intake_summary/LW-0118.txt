@@ -1,0 +1,38 @@
+---
+id: "LW-0118"
+category: "counseling_intake_summary"
+timestamp: "2025-07-26T22:26:31Z"
+author: "Counselling Team Lead"
+target_audience: "counselling team (confidential)"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "clinical_summary"
+keywords: ["loneliness", "intake", "isolation", "pastoral care"]
+---
+
+Intake Form — Counselling Ministry, Londiani Worshippers
+CONFIDENTIAL — DO NOT DISTRIBUTE
+
+Ref #: CND-353
+Counsellor assigned: Counselling Team Lead
+Presenting issue: loneliness and isolation
+
+CLIENT NARRATIVE:
+Client is a widow living alone in a rural area near Kipkelion West. Children live far away. Reports deep loneliness and loss of purpose. Attends church but does not feel connected to others.
+
+OBSERVATIONS:
+  Affect: anxious
+  Engagement level: high — client is motivated
+  Risk assessment: moderate concern — referral considered
+
+AGREED FOCUS AREAS:
+  → Understanding the situation through a biblical lens
+  → Developing practical steps forward
+  → Building a support network within the church community
+
+SESSION COUNT: 7 to date
+NEXT APPOINTMENT: To be scheduled
+
+Every person is created in the image of God and deserves dignity, compassion, and confidentiality.
+
+— Counselling Team Lead

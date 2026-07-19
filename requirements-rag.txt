@@ -1,0 +1,9 @@
+# Dependencies for the RAG pipeline (rag/) and Streamlit app (app.py).
+# The dataset generator itself (dataset_generator/) has no dependencies --
+# see requirements.txt. Install both for the full pipeline:
+#   pip install -r requirements.txt -r requirements-rag.txt
+
+google-genai>=1.20.0      # Gemini embeddings + generation
+chromadb>=0.5.0            # local persisted vector store
+rank_bm25>=0.2.2           # keyword/BM25 half of hybrid search
+streamlit>=1.38.0

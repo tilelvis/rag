@@ -1,0 +1,15 @@
+---
+id: "LW-0213"
+category: "visitor_welcome_followup"
+timestamp: "2022-06-23T17:53:57Z"
+author: "John Muthoni"
+target_audience: "new visitors"
+location_tag: "Kericho County"
+language_mix: "primarily English"
+document_style: "email"
+keywords: ["welcome", "email", "connection", "visitor", "newcomer"]
+---
+
+[SMS to M.C.]
+
+Bwana asifiwe! Thanks for visiting Londiani Worshippers. We pray for safe travels back to Kericho County. Any questions? Call or WhatsApp 07XX-XXX-XXX. God bless! — John Muthoni

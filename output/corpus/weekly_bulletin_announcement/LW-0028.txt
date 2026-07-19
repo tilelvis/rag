@@ -1,0 +1,46 @@
+---
+id: "LW-0028"
+category: "weekly_bulletin_announcement"
+timestamp: "2025-06-04T13:12:37Z"
+author: "Administrative Assistant"
+target_audience: "church members"
+location_tag: "Koru"
+language_mix: "English with Swahili phrases"
+document_style: "announcement"
+keywords: ["fellowship", "service times", "bulletin", "activities", "registration", "announcements"]
+---
+
+📢 LONDIANI WORSHIPPERS WEEKLY BULLETIN
+=============================================
+
+SUNDAY SERVICE — This coming Lord's Day
+  First Service: 7:30 AM | Second Service: 10:00 AM
+  Venue: Main Sanctuary
+  Preacher: Pastor Grace Cheruiyot
+
+🔔 ANNOUNCEMENTS:
+
+1. MIDWEEK PRAYER MEETING
+   Wednesday, 6:00 PM at the Prayer Room.
+   Theme: 'Standing in the Gap.' All are welcome.
+
+2. YOUTH CONFERENCE REGISTRATION
+   Deadline: End of this month.
+   Contact: Ruth Kemboi (0712-XXX-XXX)
+   Venue: Youth Centre, Koru
+
+3. WOMEN'S GUILD MEETING
+   Saturday at 2:00 PM, Fellowship Hall.
+   Agenda: annual retreat planning.
+
+4. CHOIR REHEARSAL
+   Thursday & Friday, 5:30 PM.
+   New members welcome! Karibu!
+
+5. TITHES & OFFERINGS
+   Please use the designated envelopes.
+   M-Pesa Paybill: XXXXXX
+
+=============================================
+'For where two or three gather in my name, there am I with them.' — Matthew 18:20
+Bwana asifiwe! See you on Sunday.

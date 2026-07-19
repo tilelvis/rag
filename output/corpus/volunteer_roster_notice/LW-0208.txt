@@ -1,0 +1,36 @@
+---
+id: "LW-0208"
+category: "volunteer_roster_notice"
+timestamp: "2026-10-01T02:03:17Z"
+author: "Luke Koech"
+target_audience: "translation team volunteers"
+location_tag: "Kipkelion"
+language_mix: "primarily English"
+document_style: "roster_notice"
+keywords: ["team", "volunteer", "service duty", "translation", "schedule"]
+---
+
+📢 TRANSLATION TEAM — SERVICE ROSTER
+
+Hello team! Here is your schedule:
+
+DATE: 2nd Sunday
+TEAM LEAD: Luke Koech
+
+ASSIGNMENTS:
+  1. Joseph Ruto — Main entrance
+  2. Lois Akinyi — Side entrance
+  3. Junia Kiprop — Sound booth
+  4. Ezekiel Otieno — Altar area
+
+CHECKLIST:
+  □ Report by 7:10 AM (first service) or 9:40 AM (second service)
+  □ Coordinate with other teams at the 7:00 AM huddle
+  □ Ensure all equipment/supplies are in place before service
+  □ Debrief briefly after service
+
+Need to swap? Contact Luke Koech directly. Please do not just skip — every role matters for a smooth service.
+
+Asante sana for your commitment! If anyone wants to join the translation team, speak to Luke Koech after service.
+
+Tuko pamoja! 💪

@@ -1,0 +1,41 @@
+---
+id: "LW-0170"
+category: "church_board_minutes_excerpt"
+timestamp: "2025-10-16T07:07:49Z"
+author: "Grace Kipkemoi"
+target_audience: "church board members"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "meeting_minutes"
+keywords: ["board minutes", "motions", "construction", "resolutions", "matatu", "action items", "church council"]
+---
+
+EXCERPT — CHURCH BOARD MEETING
+Londiani Worshippers
+
+Chair: Kigen Wanjiku | Secretary: Grace Kipkemoi
+Present: 11 | Apologies: 2
+
+KEY DECISIONS:
+
+✅ MOTION 1: Approve the annual budget of Ksh 1,851,811
+  Proposed: James Mwangi | Seconded: Eunice Rotich | Result: Passed
+
+✅ MOTION 2: Purchase new PA system for Ksh 227,755
+  Proposed: Drusilla Cheboi | Seconded: Silas Kibiwott | Result: Passed
+
+❌ MOTION 3: Change Sunday service times
+  Proposed: Elijah Cheboi | Result: Deferred for congregational input
+
+✅ MOTION 4: Approve Ksh 63,705 for community outreach in Kericho County
+  Proposed: Kigen Wanjiku | Seconded: James Mwangi | Result: Passed
+
+ACTION ITEMS:
+  1. Eunice Rotich — Get three quotes for the PA system by next meeting
+  2. Silas Kibiwott — Draft the assistant pastor job description
+  3. Drusilla Cheboi — Coordinate matatu programme logistics
+  4. James Mwangi — Follow up on compound fence repair
+
+Next meeting: First Saturday of next month, 2 PM.
+
+— Grace Kipkemoi, Board Secretary

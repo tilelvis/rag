@@ -1,0 +1,17 @@
+---
+id: "LW-0133"
+category: "prayer_request_wall"
+timestamp: "2023-12-25T04:00:07Z"
+author: "anonymous church member"
+target_audience: "prayer team and congregation"
+location_tag: "Londiani Town"
+language_mix: "English with Swahili phrases"
+document_style: "personal_submission"
+keywords: ["prayer request", "peace", "londiani", "faith"]
+---
+
+🙏 PRAYER REQUEST
+
+Please pray for peace in our community. There have been tensions between neighbouring farms near Londiani Town over grazing land. We need wisdom and reconciliation. Mungu watie amani.
+
+— Submitted by: A church member

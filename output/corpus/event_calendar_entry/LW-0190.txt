@@ -1,0 +1,38 @@
+---
+id: "LW-0190"
+category: "event_calendar_entry"
+timestamp: "2023-01-09T23:18:06Z"
+author: "David Otieno"
+target_audience: "intercessors and prayer warriors"
+location_tag: "Kedowa"
+language_mix: "English with occasional Swahili"
+document_style: "event_notice"
+keywords: ["prayer", "intercessors", "event", "venue", "kedowa", "registration", "calendar"]
+---
+
+EVENT CALENDAR ENTRY
+──────────────────────────────────────────────────
+Title: Prayer and Fasting Convention
+Date: 2022-09-12
+Venue: Main Sanctuary
+Audience: intercessors and prayer warriors
+Coordinator: David Otieno
+Expected turnout: 120
+Registration closes: 2025-08-18
+──────────────────────────────────────────────────
+
+About this event:
+A special gathering for intercessors and prayer warriors, hosted by Londiani Worshippers. The programme includes worship, teaching, fellowship, and prayer.
+
+Logistics:
+  • Sound and projection: Technical team to set up by 7 AM
+  • Seating arrangement: Ushering team
+  • Catering: Hospitality team (estimate food for 120)
+  • Security: 5 personnel assigned
+
+Budget estimate: KES 32,911
+Approved by: Church Board
+
+Rain plan: Venue is indoors no change needed
+
+For questions, reach David Otieno via church office.

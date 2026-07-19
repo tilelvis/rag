@@ -1,0 +1,38 @@
+---
+id: "LW-0184"
+category: "event_calendar_entry"
+timestamp: "2026-09-04T12:35:54Z"
+author: "Persis Muge"
+target_audience: "entire congregation and community"
+location_tag: "Fort Ternan"
+language_mix: "English with occasional Swahili"
+document_style: "event_notice"
+keywords: ["entire", "venue", "fort", "harvest", "calendar", "registration"]
+---
+
+EVENT CALENDAR ENTRY
+──────────────────────────────────────────────────
+Title: Harvest Thanksgiving Celebration
+Date: 2025-10-07
+Venue: Main Sanctuary
+Audience: entire congregation and community
+Coordinator: Persis Muge
+Expected turnout: 300
+Registration closes: 2024-11-13
+──────────────────────────────────────────────────
+
+About this event:
+A special gathering for entire congregation and community, hosted by Londiani Worshippers. The programme includes worship, teaching, fellowship, and prayer.
+
+Logistics:
+  • Sound and projection: Technical team to set up by 7 AM
+  • Seating arrangement: Ushering team
+  • Catering: Hospitality team (estimate food for 300)
+  • Security: 2 personnel assigned
+
+Budget estimate: Ksh 18,993
+Approved by: Church Board
+
+Rain plan: Venue is indoors no change needed
+
+For questions, reach Persis Muge via church office.

@@ -1,0 +1,32 @@
+---
+id: "LW-0221"
+category: "visitor_welcome_followup"
+timestamp: "2022-02-12T16:01:42Z"
+author: "Eunice Waweru"
+target_audience: "new visitors"
+location_tag: "Kipkelion"
+language_mix: "primarily English"
+document_style: "sms"
+keywords: ["connection", "visitor", "welcome", "sms", "follow-up"]
+---
+
+Subject: Your visit to Londiani Worshippers + Resources Inside
+
+Hello E.J.,
+
+Thank you for being our guest this past Sunday at Londiani Worshippers. We trust you experienced the love of God and the warmth of His people.
+
+To help you on your journey, here are some resources:
+
+📖 Daily Devotional: [Link — sent every morning via WhatsApp]
+🎵 Worship Playlist: [Link — songs from our Sunday service]
+📋 Church Calendar: [Link — upcoming events and activities]
+🙏 Prayer Requests: Submit via 07XX-XXX-XXX or the prayer wall
+
+If you are looking for a church home, we would be honoured to walk with you. Our membership class is coming up next month — details to follow.
+
+May God bless your week abundantly.
+
+In His service,
+Eunice Waweru
+Londiani Worshippers

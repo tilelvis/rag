@@ -1,0 +1,36 @@
+---
+id: "LW-0224"
+category: "visitor_welcome_followup"
+timestamp: "2025-04-22T11:28:57Z"
+author: "Jeptoo Mwangi"
+target_audience: "new visitors"
+location_tag: "Kipkelion"
+language_mix: "primarily English"
+document_style: "welcome_letter"
+keywords: ["welcome", "connection", "kipkelion", "visitor", "welcome letter", "follow-up"]
+---
+
+Subject: Welcome to Londiani Worshippers!
+
+Dear A.C.,
+
+Greetings in the name of our Lord Jesus Christ!
+
+Thank you for visiting Londiani Worshippers this past Sunday. We are delighted that you chose to worship with us, and we pray that you felt the presence of God in our midst.
+
+We would love to get to know you better and help you find your place in our church family. Here are a few ways to connect:
+
+  • Newcomers' Class: Every Wednesday at 6:00 PM in the Fellowship Hall
+  • Cell Groups: We have home fellowships across Kipkelion and surrounding areas
+  • Ministry Opportunities: From choir to children's church, there is a place for everyone
+
+If you have any prayer requests, please do not hesitate to share them with us. You can reply to this email or call our church office at 052-XXX-XXX.
+
+Once again, karibu! We look forward to seeing you again soon.
+
+May the Lord bless you and keep you.
+
+Warm regards,
+Jeptoo Mwangi
+Visitor Follow-up Team
+Londiani Worshippers

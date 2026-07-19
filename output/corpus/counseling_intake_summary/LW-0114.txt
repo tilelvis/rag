@@ -1,0 +1,38 @@
+---
+id: "LW-0114"
+category: "counseling_intake_summary"
+timestamp: "2022-06-20T23:13:53Z"
+author: "Pastoral Counsellor A"
+target_audience: "counselling team (confidential)"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "clinical_summary"
+keywords: ["assessment", "pastoral care", "intake", "counselling", "conflict"]
+---
+
+Intake Form — Counselling Ministry, Londiani Worshippers
+CONFIDENTIAL — DO NOT DISTRIBUTE
+
+Ref #: CND-288
+Counsellor assigned: Pastoral Counsellor A
+Presenting issue: marital conflict
+
+CLIENT NARRATIVE:
+Couple reports frequent arguments and emotional distance. Communication has broken down. Both express love but feel unheard. Children are being affected by the tension at home.
+
+OBSERVATIONS:
+  Affect: tearful
+  Engagement level: high — client is motivated
+  Risk assessment: low risk — monitoring recommended
+
+AGREED FOCUS AREAS:
+  → Understanding the situation through a biblical lens
+  → Developing practical steps forward
+  → Building a support network within the church community
+
+SESSION COUNT: 4 to date
+NEXT APPOINTMENT: To be scheduled
+
+Every person is created in the image of God and deserves dignity, compassion, and confidentiality.
+
+— Pastoral Counsellor A

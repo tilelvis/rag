@@ -1,0 +1,38 @@
+---
+id: "LW-0182"
+category: "event_calendar_entry"
+timestamp: "2023-11-21T00:23:17Z"
+author: "Moses Cheboi"
+target_audience: "women of all ages"
+location_tag: "Kipkelion"
+language_mix: "English with occasional Swahili"
+document_style: "event_notice"
+keywords: ["event", "venue", "kipkelion", "registration", "calendar", "women"]
+---
+
+EVENT CALENDAR ENTRY
+──────────────────────────────────────────────────
+Title: Women of Faith Retreat
+Date: 2023-08-20
+Venue: Kipkelion Parish Hall
+Audience: women of all ages
+Coordinator: Moses Cheboi
+Expected turnout: 80
+Registration closes: 2022-02-27
+──────────────────────────────────────────────────
+
+About this event:
+A special gathering for women of all ages, hosted by Londiani Worshippers. The programme includes worship, teaching, fellowship, and prayer.
+
+Logistics:
+  • Sound and projection: Technical team to set up by 7 AM
+  • Seating arrangement: Ushering team
+  • Catering: Hospitality team (estimate food for 80)
+  • Security: 5 personnel assigned
+
+Budget estimate: KES 21,552
+Approved by: Church Board
+
+Rain plan: Venue is indoors no change needed
+
+For questions, reach Moses Cheboi via church office.

@@ -1,0 +1,42 @@
+---
+id: "LW-0047"
+category: "financial_tithe_report"
+timestamp: "2024-10-28T06:05:54Z"
+author: "Finance Committee"
+target_audience: "church board and members"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "financial_summary"
+keywords: ["offerings", "welfare", "expenditure", "missions", "balance", "construction fund"]
+---
+
+LONDIANI WORSHIPPERS FINANCIAL SUMMARY
+Period: Q3 (Jul-Sep), 2024
+Prepared by: Church Finance Committee
+==================================================
+
+INCOME:
+
+  Tithes received:               KES 90,898
+  General offerings:              KES 151,798
+  Missions fund contributions:    KES 55,573
+  Building/construction fund:     KES 36,361
+  Welfare fund:                   Ksh 28,700
+  Youth ministry fund:            Ksh 10,972
+  ─────────────────────────────
+  TOTAL INCOME:                   Ksh 374,302
+
+EXPENDITURE:
+
+  Rent & utilities:               Ksh 19,418
+  Pastoral stipend:               KES 27,067
+  Outreach programmes:            Ksh 16,731
+  Facility maintenance:           KES 10,498
+  Administrative costs:           KES 2,302
+  ─────────────────────────────
+  TOTAL EXPENDITURE:              Ksh 76,016
+
+NET BALANCE:                      Ksh 298,286
+
+All figures have been verified by the finance committee.
+Report submitted for board review. Mungu akubariki for your faithfulness in giving.

@@ -1,0 +1,36 @@
+---
+id: "LW-0204"
+category: "volunteer_roster_notice"
+timestamp: "2024-12-15T01:53:14Z"
+author: "Phoebe Kimani"
+target_audience: "first aid team volunteers"
+location_tag: "Fort Ternan"
+language_mix: "primarily English"
+document_style: "roster_notice"
+keywords: ["team", "roster", "volunteer", "schedule", "assignment"]
+---
+
+📢 FIRST AID TEAM — SERVICE ROSTER
+
+Hello team! Here is your schedule:
+
+DATE: 3rd Sunday
+TEAM LEAD: Phoebe Kimani
+
+ASSIGNMENTS:
+  1. Ruth Korir — Main entrance
+  2. Lydia Chege — Side entrance
+  3. Rebecca Langat — Sound booth
+  4. Tanui Kiptanui — Altar area
+
+CHECKLIST:
+  □ Report by 7:10 AM (first service) or 9:40 AM (second service)
+  □ Coordinate with other teams at the 7:00 AM huddle
+  □ Ensure all equipment/supplies are in place before service
+  □ Debrief briefly after service
+
+Need to swap? Contact Phoebe Kimani directly. Please do not just skip — every role matters for a smooth service.
+
+Asante sana for your commitment! If anyone wants to join the first aid team, speak to Phoebe Kimani after service.
+
+Tuko pamoja! 💪

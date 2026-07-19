@@ -1,0 +1,38 @@
+---
+id: "LW-0106"
+category: "counseling_intake_summary"
+timestamp: "2022-10-05T13:00:28Z"
+author: "Pastoral Care Coordinator"
+target_audience: "counselling team (confidential)"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "clinical_summary"
+keywords: ["pastoral care", "counselling", "assessment", "grief", "intake", "loss"]
+---
+
+Intake Form — Counselling Ministry, Londiani Worshippers
+CONFIDENTIAL — DO NOT DISTRIBUTE
+
+Ref #: CND-689
+Counsellor assigned: Pastoral Care Coordinator
+Presenting issue: grief and loss
+
+CLIENT NARRATIVE:
+Client is mourning the loss of a close family member. Reports difficulty sleeping and loss of appetite since the passing three months ago. Expresses anger at God and confusion about faith.
+
+OBSERVATIONS:
+  Affect: sad
+  Engagement level: high — client is motivated
+  Risk assessment: low risk — monitoring recommended
+
+AGREED FOCUS AREAS:
+  → Understanding the situation through a biblical lens
+  → Developing practical steps forward
+  → Building a support network within the church community
+
+SESSION COUNT: 3 to date
+NEXT APPOINTMENT: To be scheduled
+
+Every person is created in the image of God and deserves dignity, compassion, and confidentiality.
+
+— Pastoral Care Coordinator

@@ -1,0 +1,49 @@
+---
+id: "LW-0095"
+category: "facility_booking_request"
+timestamp: "2022-06-16T13:32:42Z"
+author: "Miriam Kigen"
+target_audience: "church administration"
+location_tag: "Kedowa"
+language_mix: "primarily English"
+document_style: "administrative_request"
+keywords: ["event", "request", "venue", "scheduling", "marriage", "facility"]
+---
+
+FACILITY BOOKING REQUEST
+==================================================
+
+Request ID: FBR-239
+Date Submitted: 2022-06-16
+
+EVENT DETAILS:
+  Event: Marriage Seminar
+  Description: Building Lasting Marriages Seminar
+  Requested Venue: Kipkelion Parish Hall
+  Event Date: 2024-01-16
+  Setup Time: 8:00 AM
+  Event Start: 10:00 AM
+  Expected End: 4:00 PM
+  Expected Attendance: ~250
+
+REQUESTER INFORMATION:
+  Name: Miriam Kigen
+  Role: Event Coordinator
+  Phone: 07XX-XXX-XXX
+
+SPECIAL REQUIREMENTS:
+  [X] Sound system
+  [X] Projector and screen
+  [X] Additional chairs
+  [ ] Decoration permission
+  [X] Kitchen access for meal preparation
+  [ ] Overnight accommodation
+
+BUDGET ESTIMATE: Ksh 17,787
+
+APPROVAL STATUS: ☐ Pending
+
+Comments:
+Please confirm availability of Kipkelion Parish Hall by end of this week. We may need the outdoor area as well if attendance exceeds our expectation.
+
+— Miriam Kigen

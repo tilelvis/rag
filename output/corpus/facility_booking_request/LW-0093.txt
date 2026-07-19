@@ -1,0 +1,49 @@
+---
+id: "LW-0093"
+category: "facility_booking_request"
+timestamp: "2023-06-21T00:35:00Z"
+author: "Elijah Korir"
+target_audience: "church administration"
+location_tag: "Londiani Catholic Parish"
+language_mix: "primarily English"
+document_style: "administrative_request"
+keywords: ["choir", "booking", "facility", "scheduling"]
+---
+
+FACILITY BOOKING REQUEST
+==================================================
+
+Request ID: FBR-186
+Date Submitted: 2023-06-21
+
+EVENT DETAILS:
+  Event: Choir Rehearsal — Easter Cantata
+  Description: Easter Cantata Preparation
+  Requested Venue: Conference Room A
+  Event Date: 2024-10-19
+  Setup Time: 8:00 AM
+  Event Start: 10:00 AM
+  Expected End: 4:00 PM
+  Expected Attendance: ~254
+
+REQUESTER INFORMATION:
+  Name: Elijah Korir
+  Role: Event Coordinator
+  Phone: 07XX-XXX-XXX
+
+SPECIAL REQUIREMENTS:
+  [X] Sound system
+  [X] Projector and screen
+  [X] Additional chairs
+  [ ] Decoration permission
+  [X] Kitchen access for meal preparation
+  [ ] Overnight accommodation
+
+BUDGET ESTIMATE: KES 13,778
+
+APPROVAL STATUS: ☐ Pending
+
+Comments:
+Please confirm availability of Conference Room A by end of this week. We may need the outdoor area as well if attendance exceeds our expectation.
+
+— Elijah Korir

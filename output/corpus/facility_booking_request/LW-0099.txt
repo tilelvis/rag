@@ -1,0 +1,49 @@
+---
+id: "LW-0099"
+category: "facility_booking_request"
+timestamp: "2023-10-05T22:46:03Z"
+author: "Hannah Waweru"
+target_audience: "church administration"
+location_tag: "Londiani District Hospital"
+language_mix: "primarily English"
+document_style: "administrative_request"
+keywords: ["harvest", "request", "scheduling", "event"]
+---
+
+FACILITY BOOKING REQUEST
+==================================================
+
+Request ID: FBR-645
+Date Submitted: 2023-10-05
+
+EVENT DETAILS:
+  Event: Harvest Thanksgiving
+  Description: Harvest Celebration Service
+  Requested Venue: Youth Centre
+  Event Date: 2022-10-12
+  Setup Time: 8:00 AM
+  Event Start: 10:00 AM
+  Expected End: 4:00 PM
+  Expected Attendance: ~125
+
+REQUESTER INFORMATION:
+  Name: Hannah Waweru
+  Role: Event Coordinator
+  Phone: 07XX-XXX-XXX
+
+SPECIAL REQUIREMENTS:
+  [X] Sound system
+  [X] Projector and screen
+  [X] Additional chairs
+  [ ] Decoration permission
+  [X] Kitchen access for meal preparation
+  [ ] Overnight accommodation
+
+BUDGET ESTIMATE: Ksh 23,421
+
+APPROVAL STATUS: ☐ Pending
+
+Comments:
+Please confirm availability of Youth Centre by end of this week. We may need the outdoor area as well if attendance exceeds our expectation.
+
+— Hannah Waweru

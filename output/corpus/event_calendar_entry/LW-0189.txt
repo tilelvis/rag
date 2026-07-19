@@ -1,0 +1,33 @@
+---
+id: "LW-0189"
+category: "event_calendar_entry"
+timestamp: "2026-11-20T23:16:10Z"
+author: "Daniel Githinji"
+target_audience: "community of Kedowa and surrounding areas"
+location_tag: "Koru"
+language_mix: "English with occasional Swahili"
+document_style: "event_notice"
+keywords: ["registration", "calendar", "venue", "evangelism", "community", "event"]
+---
+
+📅 EVENT: Evangelism Crusade
+
+Details:
+  Date: 2026-01-28
+  Time: 14:00 — 13:00
+  Venue: Kedowa Primary School field
+  Target audience: community of Kedowa and surrounding areas
+  Expected attendance: ~500
+  Coordinator: Daniel Githinji
+  Registration deadline: 2025-10-01
+
+Description:
+This event is organised by Londiani Worshippers and is open to the community of Kedowa and surrounding areas. Attendees are encouraged to come with open hearts for what God will do.
+
+Registration:
+Contact Daniel Githinji at 07XX-XXX-XXX or register at the information desk after service.
+Early bird registration available — sign up before the deadline!
+
+Volunteer needs: Ushers (14), hospitality team (5), media/technical (5).
+
+Karibu! All are welcome.

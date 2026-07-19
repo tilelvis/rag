@@ -1,0 +1,50 @@
+---
+id: "LW-0113"
+category: "counseling_intake_summary"
+timestamp: "2023-04-28T17:45:31Z"
+author: "Counselling Team Lead"
+target_audience: "counselling team (confidential)"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "clinical_summary"
+keywords: ["faith", "struggles", "confidential", "counselling", "intake", "pastoral care"]
+---
+
+COUNSELLING INTAKE SUMMARY — CONFIDENTIAL
+=======================================================
+Case Reference: CND-417
+Counsellor: Counselling Team Lead
+Sessions completed: 2
+Presenting concern: faith struggles
+=======================================================
+
+PRESENTING ISSUE:
+Client describes a period of spiritual dryness lasting over a year. Reports inability to pray or read the Bible. Attends church out of habit but feels no connection to God.
+
+ASSESSMENT:
+Client appeared distressed. Verbal communication was somewhat fragmented. Client expressed willingness to engage in the counselling process.
+
+GOALS IDENTIFIED:
+  1. Process the presenting concern in a safe and supportive environment
+  2. Develop healthy coping strategies grounded in biblical truth
+  3. Restore and strengthen spiritual connection
+  4. Improve relational dynamics where applicable
+
+APPROACH:
+  • Biblically-integrated counselling with active listening
+  • Scripture meditation and prayer as part of each session
+  • Referral to professional therapist if symptoms persist beyond church counselling scope
+
+SESSION NOTES (Summary):
+Session 1: Intake and rapport building. Client shared history reluctantly. Prayed together at close.
+Session 2: Client showed slight improvement in openness. Discussed coping mechanisms.
+
+
+DISPOSITION:
+  ☐ Continue counselling
+  ☐ Refer to professional therapist
+  ☐ Spiritual direction recommended
+
+NOTE: All identifying information has been removed. This document is stored securely and is accessible only to authorised counselling staff.
+
+— Counselling Team Lead

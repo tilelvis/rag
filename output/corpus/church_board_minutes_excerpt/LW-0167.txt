@@ -1,0 +1,61 @@
+---
+id: "LW-0167"
+category: "church_board_minutes_excerpt"
+timestamp: "2023-09-26T19:24:34Z"
+author: "Aaron Omondi"
+target_audience: "church board members"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "meeting_minutes"
+keywords: ["construction", "governance", "action items", "board minutes"]
+---
+
+CHURCH BOARD MINUTES
+Londiani Worshippers Church Council
+=======================================================
+
+Date: [Meeting Date]
+Time: 2:00 PM - 5:30 PM
+Venue: Conference Room A
+
+ATTENDANCE:
+  Present: 6 members
+  Absent with apology: 1
+  Chair: Isaac Mwangi
+  Secretary: Aaron Omondi
+
+OPENING:
+The meeting was opened with prayer by Drusilla Kipkemoi. The chair welcomed all members and confirmed quorum.
+
+AGENDA:
+
+1. MINUTES OF PREVIOUS MEETING
+   The minutes of the previous meeting were read and adopted. Motion: Tabitha Wanjiku. Second: Chepchumba Kamau. Carried unanimously.
+
+2. FINANCIAL REPORT
+   The treasurer presented the quarterly financial statement. Total income was KES 399,685 against expenditure of KES 179,677. Surplus: Ksh 128,328.
+   RESOLUTION: The financial report is hereby adopted. Motion: Jepkosgei Githinji. Second: Mark Sigei.
+
+3. CHURCH CONSTRUCTION UPDATE
+   The building committee reported that the Sunday School block foundation is complete. Phase 2 (walls and roofing) requires an additional Ksh 800,538.
+   RESOLUTION: Approve the release of Ksh 276,770 from the building fund. Motion: Drusilla Kipkemoi. Second: Chepchumba Kamau. Carried.
+
+4. COMMUNITY OUTREACH
+   The outreach committee proposed a relief effort for families affected by recent challenges in Londiani Market.
+   RESOLUTION: Allocate Ksh 65,258 for relief supplies. Volunteers to be mobilised through the ministry leaders.
+
+5. PASTORAL MATTERS
+   The pastor reported on membership growth and counselling cases (anonymised). Recommendation to hire an assistant pastor was discussed.
+   ACTION: The HR committee to prepare a job description and budget proposal for review at the next meeting.
+
+6. AOB
+   • The church compound fence needs repair action: Tabitha Wanjiku
+   • Christmas programme planning to begin in October
+   • Sound system upgrade approved in principle
+
+CLOSING:
+The meeting was closed with prayer by the chair at 5:30 PM.
+
+Signed:
+Chair: _______________ (Isaac Mwangi)
+Secretary: _______________ (Aaron Omondi)

@@ -1,0 +1,49 @@
+---
+id: "LW-0105"
+category: "facility_booking_request"
+timestamp: "2022-10-23T17:24:34Z"
+author: "Lois Sigei"
+target_audience: "church administration"
+location_tag: "Kericho County"
+language_mix: "primarily English"
+document_style: "administrative_request"
+keywords: ["request", "venue", "booking", "event", "christmas", "facility"]
+---
+
+FACILITY BOOKING REQUEST
+==================================================
+
+Request ID: FBR-179
+Date Submitted: 2022-10-23
+
+EVENT DETAILS:
+  Event: Christmas Cantata Rehearsal
+  Description: Christmas Programme Rehearsal
+  Requested Venue: Outdoor Pergola
+  Event Date: 2022-04-16
+  Setup Time: 8:00 AM
+  Event Start: 10:00 AM
+  Expected End: 4:00 PM
+  Expected Attendance: ~66
+
+REQUESTER INFORMATION:
+  Name: Lois Sigei
+  Role: Event Coordinator
+  Phone: 07XX-XXX-XXX
+
+SPECIAL REQUIREMENTS:
+  [X] Sound system
+  [X] Projector and screen
+  [ ] Additional chairs
+  [ ] Decoration permission
+  [X] Kitchen access for meal preparation
+  [ ] Overnight accommodation
+
+BUDGET ESTIMATE: Ksh 13,696
+
+APPROVAL STATUS: ☐ Pending
+
+Comments:
+Please confirm availability of Outdoor Pergola by end of this week. 
+
+— Lois Sigei

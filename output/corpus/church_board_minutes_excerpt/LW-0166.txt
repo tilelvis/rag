@@ -1,0 +1,41 @@
+---
+id: "LW-0166"
+category: "church_board_minutes_excerpt"
+timestamp: "2026-08-29T23:22:25Z"
+author: "Aaron Chege"
+target_audience: "church board members"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "meeting_minutes"
+keywords: ["action items", "resolutions", "governance", "financial report", "motions", "church council"]
+---
+
+EXCERPT — CHURCH BOARD MEETING
+Londiani Worshippers
+
+Chair: Chepchumba Omondi | Secretary: Aaron Chege
+Present: 8 | Apologies: 2
+
+KEY DECISIONS:
+
+✅ MOTION 1: Approve the annual budget of KES 3,487,781
+  Proposed: Rebecca Cheboi | Seconded: Drusilla Omondi | Result: Passed
+
+✅ MOTION 2: Purchase new PA system for Ksh 174,099
+  Proposed: Junia Tum | Seconded: Aaron Langat | Result: Passed
+
+❌ MOTION 3: Change Sunday service times
+  Proposed: Eunice Mitei | Result: Deferred for congregational input
+
+✅ MOTION 4: Approve KES 63,573 for community outreach in Londiani District Hospital
+  Proposed: Chepchumba Omondi | Seconded: Rebecca Cheboi | Result: Passed
+
+ACTION ITEMS:
+  1. Drusilla Omondi — Get three quotes for the PA system by next meeting
+  2. Aaron Langat — Draft the assistant pastor job description
+  3. Junia Tum — Coordinate outreach programme logistics
+  4. Rebecca Cheboi — Follow up on compound fence repair
+
+Next meeting: First Saturday of next month, 2 PM.
+
+— Aaron Chege, Board Secretary

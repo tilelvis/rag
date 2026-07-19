@@ -1,0 +1,38 @@
+---
+id: "LW-0186"
+category: "event_calendar_entry"
+timestamp: "2024-03-12T00:26:07Z"
+author: "Matthias Muthoni"
+target_audience: "all members"
+location_tag: "Kipkelion East"
+language_mix: "English with occasional Swahili"
+document_style: "event_notice"
+keywords: ["registration", "all", "calendar", "venue"]
+---
+
+EVENT CALENDAR ENTRY
+──────────────────────────────────────────────────
+Title: Easter Sunrise Service
+Date: 2024-08-22
+Venue: Church Compound (outdoor)
+Audience: all members
+Coordinator: Matthias Muthoni
+Expected turnout: 250
+Registration closes: 2025-04-25
+──────────────────────────────────────────────────
+
+About this event:
+A special gathering for all members, hosted by Londiani Worshippers. The programme includes worship, teaching, fellowship, and prayer.
+
+Logistics:
+  • Sound and projection: Technical team to set up by 7 AM
+  • Seating arrangement: Ushering team
+  • Catering: Hospitality team (estimate food for 250)
+  • Security: 5 personnel assigned
+
+Budget estimate: KES 13,584
+Approved by: Church Board
+
+Rain plan: Indoor alternative at Fellowship Hall
+
+For questions, reach Matthias Muthoni via church office.

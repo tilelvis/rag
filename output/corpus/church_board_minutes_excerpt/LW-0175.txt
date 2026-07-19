@@ -1,0 +1,61 @@
+---
+id: "LW-0175"
+category: "church_board_minutes_excerpt"
+timestamp: "2023-05-31T06:11:28Z"
+author: "Peter Omondi"
+target_audience: "church board members"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "meeting_minutes"
+keywords: ["church council", "resolutions", "shamba", "financial report", "construction"]
+---
+
+CHURCH BOARD MINUTES
+Londiani Worshippers Church Council
+=======================================================
+
+Date: [Meeting Date]
+Time: 2:00 PM - 5:30 PM
+Venue: Conference Room A
+
+ATTENDANCE:
+  Present: 9 members
+  Absent with apology: 1
+  Chair: Naomi Koech
+  Secretary: Peter Omondi
+
+OPENING:
+The meeting was opened with prayer by Esther Kamau. The chair welcomed all members and confirmed quorum.
+
+AGENDA:
+
+1. MINUTES OF PREVIOUS MEETING
+   The minutes of the previous meeting were read and adopted. Motion: Chebet Kamau. Second: Dorcas Rotich. Carried unanimously.
+
+2. FINANCIAL REPORT
+   The treasurer presented the quarterly financial statement. Total income was Ksh 509,120 against expenditure of KES 302,567. Surplus: Ksh 95,683.
+   RESOLUTION: The financial report is hereby adopted. Motion: Rhoda Akinyi. Second: Kigen Mwangi.
+
+3. CHURCH CONSTRUCTION UPDATE
+   The building committee reported that the Sunday School block foundation is complete. Phase 2 (walls and roofing) requires an additional KES 916,059.
+   RESOLUTION: Approve the release of Ksh 205,553 from the building fund. Motion: Esther Kamau. Second: Dorcas Rotich. Carried.
+
+4. SHAMBA RELIEF
+   The outreach committee proposed a relief effort for families affected by the shamba in Tulwet.
+   RESOLUTION: Allocate Ksh 75,573 for relief supplies. Volunteers to be mobilised through the ministry leaders.
+
+5. PASTORAL MATTERS
+   The pastor reported on membership growth and counselling cases (anonymised). Recommendation to hire an assistant pastor was discussed.
+   ACTION: The HR committee to prepare a job description and budget proposal for review at the next meeting.
+
+6. AOB
+   • The church compound fence needs repair action: Chebet Kamau
+   • Christmas programme planning to begin in October
+   • Sound system upgrade approved in principle
+
+CLOSING:
+The meeting was closed with prayer by the chair at 5:30 PM.
+
+Signed:
+Chair: _______________ (Naomi Koech)
+Secretary: _______________ (Peter Omondi)

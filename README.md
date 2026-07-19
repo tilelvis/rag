@@ -115,3 +115,86 @@ Each document is a JSON object:
 no missing/extra categories, unique `LW-NNNN` IDs, required fields present on every
 document, well-formed timestamps within the configured date range, minimum
 `raw_text` length, and no exact-duplicate documents.
+
+## RAG pipeline (`rag/`)
+
+Turns `output/corpus/` into a queryable, grounded Q&A system, using Gemini for
+both embeddings and generation:
+
+```
+├── rag/
+│   ├── config.py        # model names, paths, chunking/retrieval settings
+│   ├── chunking.py       # frontmatter parsing + chunking (whole-doc for short
+│   │                     # docs, item-boundary splitting for longer ones)
+│   ├── embeddings.py      # Gemini embedding calls (gemini-embedding-001)
+│   ├── ingest.py           # builds rag/chroma_db (dense) + rag/bm25_index.pkl (keyword)
+│   ├── retrieval.py         # hybrid dense + BM25 search with score fusion
+│   ├── qa.py                 # retrieval + Gemini generation (gemini-3.5-flash)
+│   └── evaluate.py            # retrieval smoke tests
+├── app.py                # Streamlit chat UI
+└── requirements-rag.txt
+```
+
+### 1. Get a Gemini API key
+
+Create one at [Google AI Studio](https://aistudio.google.com/apikey).
+
+### 2. Build the index locally
+
+```bash
+pip install -r requirements.txt -r requirements-rag.txt
+export GEMINI_API_KEY=your-key-here
+python3 -m rag.ingest       # builds rag/chroma_db/ and rag/bm25_index.pkl
+python3 -m rag.evaluate     # retrieval smoke test
+streamlit run app.py        # chat UI at http://localhost:8501
+```
+
+`rag/chroma_db/` and `rag/bm25_index.pkl` are meant to be committed to the
+repo (the corpus is small, so the index is small) so the Streamlit app can
+load them directly without rebuilding at startup.
+
+### 3. Keep the index up to date with GitHub Actions
+
+`.github/workflows/build_rag_index.yml` runs automatically after the
+`Generate Dataset` workflow finishes (or on manual dispatch): it installs
+`requirements-rag.txt`, runs `rag.ingest` to rebuild the index, runs
+`rag.evaluate` as a smoke test, and commits `rag/chroma_db/` and
+`rag/bm25_index.pkl` back into the repo (tagged `[skip ci]`, same pattern as
+the dataset-generation commit).
+
+Add your key under **Settings → Secrets and variables → Actions** as
+`GEMINI_API_KEY`.
+
+### 4. Deploy the chat app on Streamlit Community Cloud
+
+1. Push this repo to GitHub (with `rag/chroma_db/` and `rag/bm25_index.pkl`
+   already committed by the Action above).
+2. On [share.streamlit.io](https://share.streamlit.io), create a new app
+   pointing at this repo, branch `main`, main file `app.py`.
+3. Under **Advanced settings → Requirements file**, point it at
+   `requirements-rag.txt` (or merge its contents into `requirements.txt`
+   before deploying, since Streamlit Cloud only installs one requirements
+   file by default).
+4. Under **App settings → Secrets**, add:
+   ```toml
+   GEMINI_API_KEY = "your-key-here"
+   ```
+5. Deploy. Every time the GitHub Action pushes a new index commit, redeploy
+   (or enable Streamlit Cloud's auto-rerun-on-push) to pick it up.
+
+### Design notes
+
+- **Chunking**: every document in this corpus is short (see length stats
+  produced by `dataset_generator`), so short docs are embedded whole; only
+  the handful of longer `church_board_minutes_excerpt`, `bible_study_guide`,
+  and `counseling_intake_summary` outliers get split, along blank-line
+  boundaries so a single motion or lesson section is never cut in half.
+- **Hybrid retrieval**: tracking IDs like `LW-0031` appear in each file's
+  frontmatter/filename but not in the body text, so dense embeddings alone
+  can't do exact ID lookups. `rag/ingest.py` prepends the `doc_id` into the
+  BM25 tokenization specifically to handle that case, and `retrieval.py`
+  fuses normalized dense + BM25 scores (see `HYBRID_DENSE_WEIGHT` in
+  `rag/config.py` to tune the balance).
+- **Grounding**: `rag/qa.py`'s system prompt instructs Gemini to answer only
+  from the retrieved context and say so when the context is insufficient,
+  rather than filling gaps from general knowledge.

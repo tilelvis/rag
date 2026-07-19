@@ -1,0 +1,33 @@
+---
+id: "LW-0185"
+category: "event_calendar_entry"
+timestamp: "2024-11-22T05:41:39Z"
+author: "Ezekiel Kipchumba"
+target_audience: "church family and community"
+location_tag: "Kipsitet"
+language_mix: "English with occasional Swahili"
+document_style: "event_notice"
+keywords: ["kipsitet", "venue", "christmas", "church"]
+---
+
+📅 EVENT: Christmas Carol Night
+
+Details:
+  Date: 2024-03-14
+  Time: 15:00 — 09:00
+  Venue: Church Compound
+  Target audience: church family and community
+  Expected attendance: ~200
+  Coordinator: Ezekiel Kipchumba
+  Registration deadline: 2025-10-01
+
+Description:
+This event is organised by Londiani Worshippers and is open to the church family and community. 
+
+Registration:
+Contact Ezekiel Kipchumba at 07XX-XXX-XXX or register at the information desk after service.
+Early bird registration available — sign up before the deadline!
+
+Volunteer needs: Ushers (13), hospitality team (3), media/technical (4).
+
+Karibu! All are welcome.

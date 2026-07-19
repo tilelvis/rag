@@ -1,0 +1,41 @@
+---
+id: "LW-0180"
+category: "church_board_minutes_excerpt"
+timestamp: "2026-07-24T14:52:40Z"
+author: "Mark Njoroge"
+target_audience: "church board members"
+location_tag: "Londiani Town"
+language_mix: "primarily English"
+document_style: "meeting_minutes"
+keywords: ["construction", "financial report", "motions", "action items", "resolutions", "tea picking season", "church council"]
+---
+
+EXCERPT — CHURCH BOARD MEETING
+Londiani Worshippers
+
+Chair: Lois Bett | Secretary: Mark Njoroge
+Present: 12 | Apologies: 2
+
+KEY DECISIONS:
+
+✅ MOTION 1: Approve the annual budget of KES 2,657,410
+  Proposed: Ezekiel Kiprono | Seconded: Samuel Muthoni | Result: Passed
+
+✅ MOTION 2: Purchase new PA system for KES 140,287
+  Proposed: Priscilla Otieno | Seconded: Kipng'etich Too | Result: Passed
+
+❌ MOTION 3: Change Sunday service times
+  Proposed: Samuel Cheboi | Result: Deferred for congregational input
+
+✅ MOTION 4: Approve KES 68,362 for community outreach in Londiani District Hospital
+  Proposed: Lois Bett | Seconded: Ezekiel Kiprono | Result: Passed
+
+ACTION ITEMS:
+  1. Samuel Muthoni — Get three quotes for the PA system by next meeting
+  2. Kipng'etich Too — Draft the assistant pastor job description
+  3. Priscilla Otieno — Coordinate tea picking season programme logistics
+  4. Ezekiel Kiprono — Follow up on compound fence repair
+
+Next meeting: First Saturday of next month, 2 PM.
+
+— Mark Njoroge, Board Secretary
