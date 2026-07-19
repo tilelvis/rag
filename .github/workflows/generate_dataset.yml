@@ -1,0 +1,26 @@
+name: Generate Dataset
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate and validate dataset
+        run: python3 generate_dataset.py --output-dir output
+
+      - name: Upload dataset artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: londiani-worshippers-dataset
+          path: output/londiani_worshippers_dataset.json
