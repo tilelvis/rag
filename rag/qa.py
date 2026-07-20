@@ -1,10 +1,20 @@
 """Retrieval-augmented answer generation over the Londiani Worshippers corpus."""
 
+import time
+
 from google.genai import types
+from google.genai.errors import ServerError
 
 from rag import config
 from rag.embeddings import get_client
 from rag.retrieval import hybrid_search
+
+# Gemini's generation endpoint occasionally returns 503 UNAVAILABLE during
+# demand spikes (more common on newer/popular models). These are transient
+# and Google's own error message recommends retrying, so back off and retry
+# a few times before giving up -- mirrors the 429 handling in embeddings.py.
+GENERATION_MAX_RETRIES = 4
+GENERATION_RETRY_BASE_SECONDS = 2.0
 
 SYSTEM_PROMPT = """You are an assistant answering questions about the internal \
 records of "Londiani Worshippers" church, using ONLY the excerpts provided \
@@ -35,14 +45,23 @@ def answer(question: str, top_k: int = config.FINAL_TOP_K) -> dict:
     context = _build_context(hits)
 
     client = get_client()
-    response = client.models.generate_content(
-        model=config.GENERATION_MODEL,
-        contents=f"Context:\n\n{context}\n\nQuestion: {question}",
-        config=types.GenerateContentConfig(
-            system_instruction=SYSTEM_PROMPT,
-            temperature=0.2,
-        ),
-    )
+    response = None
+    for attempt in range(1, GENERATION_MAX_RETRIES + 1):
+        try:
+            response = client.models.generate_content(
+                model=config.GENERATION_MODEL,
+                contents=f"Context:\n\n{context}\n\nQuestion: {question}",
+                config=types.GenerateContentConfig(
+                    system_instruction=SYSTEM_PROMPT,
+                    temperature=0.2,
+                ),
+            )
+            break
+        except ServerError:
+            if attempt == GENERATION_MAX_RETRIES:
+                raise
+            time.sleep(GENERATION_RETRY_BASE_SECONDS * attempt)
+
     return {
         "question": question,
         "answer": response.text,
