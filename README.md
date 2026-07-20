@@ -3,7 +3,31 @@
 Generates a synthetic dataset of 225 church-related documents (15 categories × 15
 documents each) for the fictional "Londiani Worshippers" church, with Kenyan
 place names, local context, and occasional Swahili phrases mixed into
-English-language text.
+English-language text. It also includes a hybrid-retrieval RAG pipeline
+(`rag/`) and a Streamlit chat UI on top of that corpus.
+
+**Live demo:** [add your Streamlit Cloud URL]
+
+## Why this project
+
+A RAG pipeline where retrieval quality is measured, not assumed — built
+around a labeled evaluation set instead of eyeballing chat outputs.
+
+- **Hybrid retrieval, tuned deliberately**: dense (Gemini embeddings) + BM25,
+  combined with a configurable weight, because dense search alone misses
+  exact-ID and exact-number queries, and BM25 alone misses paraphrase/semantic ones.
+- **Evaluation-driven, not vibes-driven**: `rag/evaluate.py` runs labeled
+  queries against the index and checks expected doc IDs land in top-k —
+  this is what caught the BM25 tokenization bug described below, before it
+  reached the UI.
+- **Chunking strategy shaped by the actual corpus**, not a fixed token count:
+  most documents are short enough to embed whole; only outliers get split,
+  and only on natural boundaries, so no motion or lesson section is ever cut
+  mid-way.
+- **Synthetic dataset generation**: 225 documents across 15 categories, with
+  a uniqueness tracker and a validation pass before anything is written to disk.
+- **Handles a flaky external API like production code**: retry-with-backoff
+  on both embedding rate limits (429) and generation-endpoint overload (503).
 
 ## Structure
 
