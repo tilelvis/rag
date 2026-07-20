@@ -1,6 +1,7 @@
 """Thin wrapper around the Gemini embedding API (google-genai SDK)."""
 
 import logging
+import os
 import time
 
 from google import genai
@@ -24,12 +25,18 @@ DEFAULT_RETRY_SECONDS = 15.0
 def get_client() -> genai.Client:
     global _client
     if _client is None:
-        if not config.GEMINI_API_KEY:
+        # Read live from the environment rather than config.GEMINI_API_KEY
+        # (which is captured once at import time): in Streamlit, modules
+        # stay cached in memory across script reruns, so if this module
+        # ever imported before the key was set/available, a cached empty
+        # value would stick around even after the secret is added.
+        api_key = os.environ.get("GEMINI_API_KEY") or config.GEMINI_API_KEY
+        if not api_key:
             raise RuntimeError(
                 "GEMINI_API_KEY is not set. Export it locally, add it as a "
                 "GitHub Actions secret, or set it in Streamlit secrets."
             )
-        _client = genai.Client(api_key=config.GEMINI_API_KEY)
+        _client = genai.Client(api_key=api_key)
     return _client
 
 
