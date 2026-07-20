@@ -1,3 +1,9 @@
-# No third-party dependencies — the generator uses only the Python standard library
-# (argparse, logging, os, sys, json, random, re, datetime, collections).
-# Requires Python 3.12+ (uses PEP 701 f-string syntax and `list[dict]` type hints).
+# Dataset generator (dataset_generator/) itself has no dependencies --
+# it uses only the Python standard library (argparse, logging, os, sys,
+# json, random, re, datetime, collections). Requires Python 3.12+.
+
+# RAG pipeline (rag/) and Streamlit app (app.py):
+google-genai>=1.20.0      # Gemini embeddings + generation
+chromadb>=0.5.0            # local persisted vector store
+rank_bm25>=0.2.2           # keyword/BM25 half of hybrid search
+streamlit>=1.38.0

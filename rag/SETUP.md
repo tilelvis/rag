@@ -11,9 +11,13 @@
 │   ├── retrieval.py       # hybrid dense + BM25 search with score fusion
 │   ├── qa.py               # retrieval + Gemini generation (gemini-3.5-flash)
 │   └── evaluate.py          # retrieval smoke tests
-├── app.py              # Streamlit chat UI
-└── requirements-rag.txt
+└── app.py              # Streamlit chat UI
 ```
+
+(Dependencies for all of this live in the root `requirements.txt`, alongside
+the dataset generator's — Streamlit Cloud only auto-installs that one file,
+so this repo keeps everything in it rather than splitting out a second
+requirements file.)
 
 ## 1. Get a Gemini API key
 
@@ -22,7 +26,7 @@ Create one at [Google AI Studio](https://aistudio.google.com/apikey).
 ## 2. Build the index locally
 
 ```bash
-pip install -r requirements.txt -r requirements-rag.txt
+pip install -r requirements.txt
 export GEMINI_API_KEY=your-key-here
 python3 -m rag.ingest       # builds rag/chroma_db/ and rag/bm25_index.pkl
 python3 -m rag.evaluate     # retrieval smoke test
@@ -37,7 +41,7 @@ load them directly without rebuilding at startup.
 
 `.github/workflows/build_rag_index.yml` runs automatically after the
 `Generate Dataset` workflow finishes (or on manual dispatch): it installs
-`requirements-rag.txt`, runs `rag.ingest` to rebuild the index, runs
+`requirements.txt`, runs `rag.ingest` to rebuild the index, runs
 `rag.evaluate` as a smoke test, and commits `rag/chroma_db/` and
 `rag/bm25_index.pkl` back into the repo (tagged `[skip ci]`, same pattern as
 the dataset-generation commit).
@@ -50,16 +54,13 @@ Add your key under **Settings → Secrets and variables → Actions** as
 1. Push this repo to GitHub (with `rag/chroma_db/` and `rag/bm25_index.pkl`
    already committed by the Action above).
 2. On [share.streamlit.io](https://share.streamlit.io), create a new app
-   pointing at this repo, branch `main`, main file `app.py`.
-3. Under **Advanced settings → Requirements file**, point it at
-   `requirements-rag.txt` (or merge its contents into `requirements.txt`
-   before deploying, since Streamlit Cloud only installs one requirements
-   file by default).
-4. Under **App settings → Secrets**, add:
+   pointing at this repo, branch `main`, main file `app.py`. It picks up
+   `requirements.txt` automatically.
+3. Under **App settings → Secrets**, add:
    ```toml
    GEMINI_API_KEY = "your-key-here"
    ```
-5. Deploy. Every time the GitHub Action pushes a new index commit, redeploy
+4. Deploy. Every time the GitHub Action pushes a new index commit, redeploy
    (or enable Streamlit Cloud's auto-rerun-on-push) to pick it up.
 
 ## Tuning knobs
